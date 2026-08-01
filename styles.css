@@ -1,0 +1,106 @@
+:root {
+  color-scheme: only light;
+}
+
+html,
+body,
+.reveal,
+.reveal-viewport,
+.reveal .slides,
+.reveal .slides section,
+.reveal .slide-background {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+.reveal,
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal p,
+.reveal li,
+.reveal td,
+.reveal th {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.reveal h1,
+.reveal h2 {
+  color: #000000 !important;
+  text-transform: none;
+  font-size: 1.5em;
+  border-bottom: 2px solid #158158;
+  padding-bottom: 0.15em;
+  margin-bottom: 0.5em;
+}
+
+.reveal p,
+.reveal li {
+  color: #000000 !important;
+}
+
+.reveal .slides section {
+  text-align: left;
+}
+
+.reveal ul {
+  display: block;
+}
+
+.reveal li {
+  margin-bottom: 0.3em;
+}
+
+/* Absolutely-positioned image overlay reproducing the original slide's
+   image layout (coordinates carried over from the source .pptx). */
+.reveal .slides section > h1,
+.reveal .slides section > h2,
+.reveal .slides section > ul,
+.reveal .slides section > table {
+  position: relative;
+  z-index: 1;
+}
+
+.slide-media {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+  z-index: 0;
+}
+
+.slide-media img {
+  position: absolute;
+  max-width: none;
+  max-height: none;
+  border: 0;
+  box-shadow: none;
+  background: none;
+}
+
+.reveal table.fidelity-table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0.5em 0;
+}
+
+.reveal table.fidelity-table tr,
+.reveal table.fidelity-table td {
+  background-color: #ffffff !important;
+  color: #000000 !important;
+}
+
+.reveal table.fidelity-table th,
+.reveal table.fidelity-table td {
+  border: 1px solid #cccccc;
+  padding: 0.4em 0.6em;
+  text-align: left;
+  vertical-align: top;
+  font-size: 0.85em;
+}
+
+.reveal table.fidelity-table th {
+  background-color: #158158 !important;
+  color: #ffffff !important;
+}

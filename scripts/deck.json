@@ -1,0 +1,2114 @@
+{
+  "width_emu": 9144000,
+  "height_emu": 5143500,
+  "slides": [
+    {
+      "index": 1,
+      "source_slide": 1,
+      "title": "The First Job in Industry",
+      "body": [],
+      "images": [
+        {
+          "src": "image21.png",
+          "left_pct": 25.458,
+          "top_pct": 3.14,
+          "width_pct": 44.872,
+          "height_pct": 70.45
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 2,
+      "source_slide": 2,
+      "title": "Objective: Share reflections of themes in industry recruitment",
+      "body": [],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 3,
+      "source_slide": 3,
+      "title": "Outline",
+      "body": [
+        [
+          0,
+          "What Industry"
+        ],
+        [
+          0,
+          "Digital Presence"
+        ],
+        [
+          0,
+          "Getting Interview Invitation"
+        ],
+        [
+          0,
+          "Interview Process"
+        ],
+        [
+          0,
+          "The Offer"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image38.png",
+          "left_pct": 43.792,
+          "top_pct": 22.406,
+          "width_pct": 47.953,
+          "height_pct": 47.983
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 4,
+      "source_slide": 4,
+      "title": "What Industry",
+      "body": [],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 5,
+      "source_slide": 5,
+      "title": "Industry vs University/Academic Research",
+      "body": [],
+      "images": [],
+      "table": [
+        [
+          "Academia ",
+          "Industry"
+        ],
+        [
+          "Academia is a safe privileged environment",
+          "Wide variety of organizations outside university"
+        ],
+        [
+          "There is often time to think and explore ideas",
+          "Often there is a revenue/profit motive"
+        ],
+        [
+          "For the most part, industry is not like that",
+          "Managers have biases and preferences"
+        ]
+      ],
+      "notes": ""
+    },
+    {
+      "index": 6,
+      "source_slide": 6,
+      "title": "Global Industry Classification Standard (GICS)",
+      "body": [
+        [
+          0,
+          "Education"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image8.png",
+          "left_pct": 67.517,
+          "top_pct": 23.43,
+          "width_pct": 10.638,
+          "height_pct": 18.912
+        },
+        {
+          "src": "image2.png",
+          "left_pct": 3.5,
+          "top_pct": 31.341,
+          "width_pct": 9.206,
+          "height_pct": 9.204
+        },
+        {
+          "src": "image12.png",
+          "left_pct": 16.186,
+          "top_pct": 53.514,
+          "width_pct": 12.966,
+          "height_pct": 16.366
+        },
+        {
+          "src": "image5.png",
+          "left_pct": 10.57,
+          "top_pct": 46.134,
+          "width_pct": 8.737,
+          "height_pct": 13.502
+        },
+        {
+          "src": "image3.png",
+          "left_pct": 18.319,
+          "top_pct": 48.282,
+          "width_pct": 9.206,
+          "height_pct": 9.206
+        },
+        {
+          "src": "image19.png",
+          "left_pct": 58.318,
+          "top_pct": 34.288,
+          "width_pct": 8.015,
+          "height_pct": 11.264
+        },
+        {
+          "src": "image6.png",
+          "left_pct": 65.447,
+          "top_pct": 45.655,
+          "width_pct": 8.015,
+          "height_pct": 5.188
+        },
+        {
+          "src": "image17.png",
+          "left_pct": 73.75,
+          "top_pct": 47.588,
+          "width_pct": 10.638,
+          "height_pct": 6.611
+        },
+        {
+          "src": "image31.png",
+          "left_pct": 73.445,
+          "top_pct": 56.215,
+          "width_pct": 9.766,
+          "height_pct": 5.189
+        },
+        {
+          "src": "image14.png",
+          "left_pct": 64.59,
+          "top_pct": 53.147,
+          "width_pct": 8.015,
+          "height_pct": 8.15
+        },
+        {
+          "src": "image24.png",
+          "left_pct": 81.768,
+          "top_pct": 50.0,
+          "width_pct": 8.015,
+          "height_pct": 8.014
+        },
+        {
+          "src": "image18.png",
+          "left_pct": 75.594,
+          "top_pct": 65.927,
+          "width_pct": 6.949,
+          "height_pct": 6.949
+        },
+        {
+          "src": "image1.png",
+          "left_pct": 51.982,
+          "top_pct": 77.462,
+          "width_pct": 6.336,
+          "height_pct": 11.264
+        },
+        {
+          "src": "image4.png",
+          "left_pct": 42.487,
+          "top_pct": 77.462,
+          "width_pct": 5.83,
+          "height_pct": 10.365
+        },
+        {
+          "src": "image7.png",
+          "left_pct": 50.014,
+          "top_pct": 29.974,
+          "width_pct": 4.584,
+          "height_pct": 8.15
+        },
+        {
+          "src": "image11.png",
+          "left_pct": 38.811,
+          "top_pct": 27.611,
+          "width_pct": 5.218,
+          "height_pct": 6.949
+        },
+        {
+          "src": "image20.png",
+          "left_pct": 44.029,
+          "top_pct": 30.336,
+          "width_pct": 6.336,
+          "height_pct": 11.214
+        },
+        {
+          "src": "image16.png",
+          "left_pct": 38.811,
+          "top_pct": 18.803,
+          "width_pct": 3.014,
+          "height_pct": 5.728
+        },
+        {
+          "src": "image22.png",
+          "left_pct": 51.396,
+          "top_pct": 19.971,
+          "width_pct": 5.83,
+          "height_pct": 10.365
+        },
+        {
+          "src": "image27.png",
+          "left_pct": 19.307,
+          "top_pct": 66.211,
+          "width_pct": 5.579,
+          "height_pct": 9.918
+        },
+        {
+          "src": "image23.png",
+          "left_pct": 4.18,
+          "top_pct": 75.801,
+          "width_pct": 6.949,
+          "height_pct": 5.162
+        },
+        {
+          "src": "image25.png",
+          "left_pct": 3.5,
+          "top_pct": 65.927,
+          "width_pct": 6.336,
+          "height_pct": 3.953
+        },
+        {
+          "src": "image9.png",
+          "left_pct": 17.493,
+          "top_pct": 88.691,
+          "width_pct": 3.909,
+          "height_pct": 6.949
+        },
+        {
+          "src": "image10.png",
+          "left_pct": 30.109,
+          "top_pct": 89.297,
+          "width_pct": 5.83,
+          "height_pct": 8.484
+        },
+        {
+          "src": "image15.png",
+          "left_pct": 22.469,
+          "top_pct": 89.465,
+          "width_pct": 4.584,
+          "height_pct": 8.15
+        },
+        {
+          "src": "image13.png",
+          "left_pct": 88.515,
+          "top_pct": 77.376,
+          "width_pct": 8.015,
+          "height_pct": 10.536
+        },
+        {
+          "src": "image29.png",
+          "left_pct": 77.632,
+          "top_pct": 87.912,
+          "width_pct": 5.579,
+          "height_pct": 9.918
+        },
+        {
+          "src": "image43.png",
+          "left_pct": 63.362,
+          "top_pct": 91.22,
+          "width_pct": 6.949,
+          "height_pct": 5.728
+        },
+        {
+          "src": "image46.png",
+          "left_pct": 67.111,
+          "top_pct": 75.276,
+          "width_pct": 8.015,
+          "height_pct": 8.155
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 7,
+      "source_slide": 7,
+      "title": null,
+      "body": [],
+      "images": [
+        {
+          "src": "image35.png",
+          "left_pct": 5.226,
+          "top_pct": 20.361,
+          "width_pct": 49.729,
+          "height_pct": 59.277
+        },
+        {
+          "src": "image39.png",
+          "left_pct": 59.094,
+          "top_pct": 55.098,
+          "width_pct": 38.646,
+          "height_pct": 42.427
+        },
+        {
+          "src": "image26.png",
+          "left_pct": 59.308,
+          "top_pct": 1.465,
+          "width_pct": 38.646,
+          "height_pct": 50.992
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 8,
+      "source_slide": 8,
+      "title": "Start Ups",
+      "body": [],
+      "images": [
+        {
+          "src": "image68.png",
+          "left_pct": 11.202,
+          "top_pct": 14.368,
+          "width_pct": 74.255,
+          "height_pct": 83.592
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 9,
+      "source_slide": 9,
+      "title": "Hierarchy",
+      "body": [
+        [
+          0,
+          "CEO/Founder"
+        ],
+        [
+          0,
+          "HR/People Ops"
+        ],
+        [
+          0,
+          "Business Areas / Departments"
+        ],
+        [
+          0,
+          "Managers"
+        ],
+        [
+          0,
+          "Direct Manager"
+        ],
+        [
+          0,
+          "Team Members"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image66.png",
+          "left_pct": 45.807,
+          "top_pct": 3.412,
+          "width_pct": 43.388,
+          "height_pct": 82.829
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 10,
+      "source_slide": 10,
+      "title": "Types of Organizations",
+      "body": [
+        [
+          0,
+          "Government Agencies"
+        ],
+        [
+          0,
+          "Semi Autonomous Agencies"
+        ],
+        [
+          0,
+          "Low Funding Start Ups"
+        ],
+        [
+          0,
+          "Small/Family Businesses"
+        ],
+        [
+          0,
+          "Mid Size Businesses"
+        ],
+        [
+          0,
+          "Large Companies"
+        ],
+        [
+          0,
+          "Multinationals"
+        ],
+        [
+          0,
+          "Well Funded Startups"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image30.png",
+          "left_pct": 46.992,
+          "top_pct": 13.681,
+          "width_pct": 10.956,
+          "height_pct": 19.477
+        },
+        {
+          "src": "image37.png",
+          "left_pct": 64.202,
+          "top_pct": 11.016,
+          "width_pct": 13.769,
+          "height_pct": 24.808
+        },
+        {
+          "src": "image44.png",
+          "left_pct": 81.623,
+          "top_pct": 7.916,
+          "width_pct": 11.887,
+          "height_pct": 9.407
+        },
+        {
+          "src": "image40.png",
+          "left_pct": 51.038,
+          "top_pct": 38.94,
+          "width_pct": 16.284,
+          "height_pct": 16.212
+        },
+        {
+          "src": "image28.png",
+          "left_pct": 80.307,
+          "top_pct": 22.407,
+          "width_pct": 16.284,
+          "height_pct": 15.986
+        },
+        {
+          "src": "image32.png",
+          "left_pct": 75.443,
+          "top_pct": 44.372,
+          "width_pct": 17.11,
+          "height_pct": 15.209
+        },
+        {
+          "src": "image47.png",
+          "left_pct": 64.523,
+          "top_pct": 64.436,
+          "width_pct": 25.019,
+          "height_pct": 23.169
+        },
+        {
+          "src": "image33.png",
+          "left_pct": 43.725,
+          "top_pct": 58.268,
+          "width_pct": 15.603,
+          "height_pct": 27.739
+        },
+        {
+          "src": "image34.png",
+          "left_pct": 44.296,
+          "top_pct": 74.787,
+          "width_pct": 14.2,
+          "height_pct": 17.484
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 11,
+      "source_slide": 11,
+      "title": "Business Model",
+      "body": [
+        [
+          0,
+          "Consulting"
+        ],
+        [
+          0,
+          "Product"
+        ],
+        [
+          0,
+          "Platform"
+        ],
+        [
+          0,
+          "Mission Driven"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 12,
+      "source_slide": 12,
+      "title": "Types of Work",
+      "body": [
+        [
+          0,
+          "Outside Consultant"
+        ],
+        [
+          0,
+          "Temporary"
+        ],
+        [
+          0,
+          "Permanent"
+        ],
+        [
+          0,
+          "Full Time"
+        ],
+        [
+          0,
+          "Part Time"
+        ],
+        [
+          0,
+          "Remote/Hybrid/On-site"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image41.png",
+          "left_pct": 47.213,
+          "top_pct": 28.117,
+          "width_pct": 23.438,
+          "height_pct": 41.667
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 13,
+      "source_slide": 13,
+      "title": "Types of Roles",
+      "body": [
+        [
+          0,
+          "Many - math graduates who can write code are popular - high endurance, abstraction, creative thinking:"
+        ],
+        [
+          0,
+          "Data: Analyst / Engineer / Scientist / Architect"
+        ],
+        [
+          0,
+          "ML: Scientist / Engineer / Consultant"
+        ],
+        [
+          0,
+          "Statistician"
+        ],
+        [
+          0,
+          "Bioinformatics, Biostatistics, Cheminformatics"
+        ],
+        [
+          0,
+          "Computational Marketing"
+        ],
+        [
+          0,
+          "Quantitative Analyst"
+        ],
+        [
+          0,
+          "Software: Developer / Engineer / Architect"
+        ],
+        [
+          0,
+          "Risk Analyst"
+        ],
+        [
+          0,
+          "Operations Research Analyst"
+        ],
+        [
+          0,
+          "Actuary"
+        ],
+        [
+          0,
+          "Teacher, Professor"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 14,
+      "source_slide": 14,
+      "title": "Typical Day",
+      "body": [
+        [
+          0,
+          "Meetings"
+        ],
+        [
+          0,
+          "Triaging requests on Slack"
+        ],
+        [
+          0,
+          "Reading research papers (specific positions)"
+        ],
+        [
+          0,
+          "Writing code"
+        ],
+        [
+          0,
+          "Sourcing data"
+        ],
+        [
+          0,
+          "Daily stand up (ritual: team progress, plans, updates & blockers)"
+        ],
+        [
+          0,
+          "Training"
+        ],
+        [
+          0,
+          "Presentations"
+        ],
+        [
+          0,
+          "Demo days"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 15,
+      "source_slide": 15,
+      "title": "Work Cultures",
+      "body": [
+        [
+          0,
+          "Reflective"
+        ],
+        [
+          0,
+          "High Pressure"
+        ],
+        [
+          0,
+          "High Performance"
+        ],
+        [
+          0,
+          "Competitive, Collaborative"
+        ],
+        [
+          0,
+          "Slow, Fast"
+        ],
+        [
+          0,
+          "Impacting"
+        ],
+        [
+          0,
+          "Toxic"
+        ],
+        [
+          0,
+          "Break Things, Move Fast"
+        ],
+        [
+          0,
+          "Meaningful"
+        ],
+        [
+          0,
+          "Innovation, Staid"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 16,
+      "source_slide": 16,
+      "title": "Devices",
+      "body": [
+        [
+          0,
+          "Laptop"
+        ],
+        [
+          0,
+          "Data & communications locked to device, everything monitored"
+        ],
+        [
+          0,
+          "Traditional: business laptop with windows"
+        ],
+        [
+          0,
+          "Creatives: usually provide Mac/Linux"
+        ],
+        [
+          0,
+          "Take to every meeting"
+        ],
+        [
+          0,
+          "Don\u2019t open whatsapp/fb/instagram/personal email or install programs"
+        ],
+        [
+          0,
+          "Personal Phone (BYOD)"
+        ],
+        [
+          0,
+          "Install monitoring software"
+        ],
+        [
+          0,
+          "Access work docs/email/comms"
+        ],
+        [
+          0,
+          "Cloud"
+        ],
+        [
+          0,
+          "Some legacy organizations have servers"
+        ],
+        [
+          0,
+          "Organizations processing big data use cloud:"
+        ],
+        [
+          1,
+          "Amazon AWS, Google GCP, Microsoft Azure, Huawei, Alibaba Cloud"
+        ],
+        [
+          0,
+          "Tech & start-ups are mostly using cloud"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 17,
+      "source_slide": 17,
+      "title": "Communications",
+      "body": [
+        [
+          0,
+          "Everything will be locked down and visible"
+        ],
+        [
+          0,
+          "Use email/chat only for work"
+        ],
+        [
+          0,
+          "DM service like Slack/Discord/Teams"
+        ],
+        [
+          0,
+          "Reply quickly and professionally"
+        ],
+        [
+          0,
+          "Keep communications short and business-like, not too formal"
+        ],
+        [
+          0,
+          "Email is mostly for old economy companies"
+        ],
+        [
+          0,
+          "Use calendar; be punctual"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image69.png",
+          "left_pct": 8.752,
+          "top_pct": 64.384,
+          "width_pct": 39.688,
+          "height_pct": 24.444
+        },
+        {
+          "src": "image62.png",
+          "left_pct": 61.823,
+          "top_pct": 61.883,
+          "width_pct": 33.021,
+          "height_pct": 29.444
+        },
+        {
+          "src": "image45.png",
+          "left_pct": 61.152,
+          "top_pct": 5.528,
+          "width_pct": 32.292,
+          "height_pct": 30.0
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 18,
+      "source_slide": 18,
+      "title": "Cloud",
+      "body": [
+        [
+          0,
+          "Invest time"
+        ],
+        [
+          0,
+          "Infinite scale SQL engines"
+        ],
+        [
+          0,
+          "Highly scalable managed servers"
+        ],
+        [
+          0,
+          "Deep Learning and more"
+        ],
+        [
+          0,
+          "Docker + Kubernetes"
+        ],
+        [
+          0,
+          "Manage Security"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image65.png",
+          "left_pct": 45.18,
+          "top_pct": 54.417,
+          "width_pct": 50.727,
+          "height_pct": 39.002
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 19,
+      "source_slide": 19,
+      "title": "Data",
+      "body": [
+        [
+          0,
+          "Small Data"
+        ],
+        [
+          0,
+          "Shared drive: KB, MB, GB data volume"
+        ],
+        [
+          0,
+          "Working on laptops"
+        ],
+        [
+          0,
+          "Legacy industry applications"
+        ],
+        [
+          0,
+          "Some working in Excel"
+        ],
+        [
+          0,
+          "xslx, tsv, csv, txt, db, sql file formats"
+        ],
+        [
+          0,
+          "Big Data"
+        ],
+        [
+          0,
+          "Cloud based storage: GB, PB, XB, YB data volume"
+        ],
+        [
+          0,
+          "Work with servers using Python, SQL (sometimes R, Node, Java)"
+        ],
+        [
+          0,
+          "Expect security to be paramount PII (Super sensitive data)"
+        ],
+        [
+          0,
+          "avro, parquet, orc, json, bson, fasta, fastq, sql file formats"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 20,
+      "source_slide": 20,
+      "title": "Compensation",
+      "body": [
+        [
+          0,
+          "Salary"
+        ],
+        [
+          0,
+          "Stock"
+        ],
+        [
+          0,
+          "Vacations"
+        ],
+        [
+          0,
+          "Perks: Massages, Relocation, Healthcare, Education/Travel Budget, Work From Home, Gifts, Food"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 21,
+      "source_slide": 21,
+      "title": "Random Quiz: Juan Francisco",
+      "body": [],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 22,
+      "source_slide": 22,
+      "title": "Digital Presence",
+      "body": [],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 23,
+      "source_slide": 23,
+      "title": "LinkedIn",
+      "body": [
+        [
+          0,
+          "Clean"
+        ],
+        [
+          0,
+          "Organized"
+        ],
+        [
+          0,
+          "Professional"
+        ],
+        [
+          0,
+          "List out skills relevant to roles that interest you"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image36.png",
+          "left_pct": 11.932,
+          "top_pct": 59.107,
+          "width_pct": 33.238,
+          "height_pct": 33.09
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 24,
+      "source_slide": 24,
+      "title": "Professional/Portfolio Website",
+      "body": [
+        [
+          0,
+          "Demo your projects"
+        ],
+        [
+          0,
+          "Or a working app"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 25,
+      "source_slide": 25,
+      "title": "GitHub",
+      "body": [
+        [
+          0,
+          "Only quality repos"
+        ],
+        [
+          0,
+          "Repo names: use-skewer-case"
+        ],
+        [
+          0,
+          "Commits should look professional"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image58.png",
+          "left_pct": 43.288,
+          "top_pct": 41.846,
+          "width_pct": 55.53,
+          "height_pct": 54.614
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 26,
+      "source_slide": 26,
+      "title": "Google Scholar",
+      "body": [],
+      "images": [
+        {
+          "src": "image57.png",
+          "left_pct": 13.409,
+          "top_pct": 19.787,
+          "width_pct": 70.457,
+          "height_pct": 77.43
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 27,
+      "source_slide": 27,
+      "title": "ORCID",
+      "body": [],
+      "images": [
+        {
+          "src": "image42.png",
+          "left_pct": 18.727,
+          "top_pct": 10.909,
+          "width_pct": 65.734,
+          "height_pct": 83.137
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 28,
+      "source_slide": 28,
+      "title": "Resume",
+      "body": [
+        [
+          0,
+          "pdf format (additionally word/online)"
+        ],
+        [
+          0,
+          "Have an sharable link (with a tiny url)"
+        ],
+        [
+          0,
+          "1 page: usually for first screening"
+        ],
+        [
+          0,
+          "2 page: when requested"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image48.png",
+          "left_pct": 52.591,
+          "top_pct": -0.924,
+          "width_pct": 40.069,
+          "height_pct": 100.75
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 29,
+      "source_slide": 29,
+      "title": "Language Skills",
+      "body": [
+        [
+          0,
+          "Spanish, English (English is really important for many jobs)"
+        ],
+        [
+          0,
+          "Bash, Python, R, SQL, Linux"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image49.png",
+          "left_pct": 4.678,
+          "top_pct": 46.428,
+          "width_pct": 17.515,
+          "height_pct": 24.178
+        },
+        {
+          "src": "image55.png",
+          "left_pct": 56.126,
+          "top_pct": 44.747,
+          "width_pct": 14.844,
+          "height_pct": 28.979
+        },
+        {
+          "src": "image54.png",
+          "left_pct": 22.846,
+          "top_pct": 46.428,
+          "width_pct": 29.245,
+          "height_pct": 24.178
+        },
+        {
+          "src": "image53.png",
+          "left_pct": 72.628,
+          "top_pct": 32.46,
+          "width_pct": 21.118,
+          "height_pct": 24.982
+        },
+        {
+          "src": "image60.png",
+          "left_pct": 72.628,
+          "top_pct": 65.549,
+          "width_pct": 22.748,
+          "height_pct": 22.647
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 30,
+      "source_slide": 30,
+      "title": "Application Skills",
+      "body": [
+        [
+          0,
+          "Windows, Microsoft Office (Excel, Word, etc.)"
+        ],
+        [
+          0,
+          "Google App (Drive, Sheets, Slides, Docs)"
+        ],
+        [
+          0,
+          "LLM: ChatGPT/Gemini/Claude"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image51.png",
+          "left_pct": 57.672,
+          "top_pct": 50.0,
+          "width_pct": 35.647,
+          "height_pct": 35.488
+        },
+        {
+          "src": "image73.png",
+          "left_pct": 3.409,
+          "top_pct": 48.834,
+          "width_pct": 46.085,
+          "height_pct": 46.085
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 31,
+      "source_slide": 31,
+      "title": "Getting Interview Invitation",
+      "body": [],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 32,
+      "source_slide": 32,
+      "title": "Hiring: Organization Perspective",
+      "body": [
+        [
+          0,
+          "Time is money"
+        ],
+        [
+          0,
+          "Can cost 5-15% of the total budget, 30% of first year salary, 200% to replace a bad hire"
+        ],
+        [
+          0,
+          "Productivity declines"
+        ],
+        [
+          0,
+          "Too many online applications"
+        ],
+        [
+          0,
+          "Filtering is error prone"
+        ],
+        [
+          0,
+          "Bad hires are a weight on the organization"
+        ],
+        [
+          0,
+          "Boring & exhausting process"
+        ],
+        [
+          0,
+          "Serious candidates need to demonstrate motivation"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 33,
+      "source_slide": 33,
+      "title": "Opinions",
+      "body": [
+        [
+          0,
+          "Learn to work in groups of 2-5 people, ideally cross functional teams"
+        ],
+        [
+          0,
+          "Many organizations work on quarterly budgets and allocations"
+        ],
+        [
+          0,
+          "Could apply around the quarters (Dec/Jan, March/April, June/July, Sept/Oct)"
+        ],
+        [
+          0,
+          "Probably best to get to a big city, you\u2019ll learn more quickly working with highly skilled people"
+        ],
+        [
+          0,
+          "Live close to work for the first year (even if it\u2019s a small apartment share)"
+        ],
+        [
+          0,
+          "Work crazy hard for the first 6 months"
+        ],
+        [
+          0,
+          "Don\u2019t mention you want to go back to university (PhD/Masters)"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 34,
+      "source_slide": 34,
+      "title": "Networking",
+      "body": [
+        [
+          0,
+          "High Probability of Interview:"
+        ],
+        [
+          0,
+          "Friends"
+        ],
+        [
+          0,
+          "Family"
+        ],
+        [
+          0,
+          "Conferences"
+        ],
+        [
+          0,
+          "LinkedIn coffee meetings with potential colleagues"
+        ],
+        [
+          0,
+          "Not fair, but filtering is expensive and boring"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 35,
+      "source_slide": 35,
+      "title": "Candidate Qualities",
+      "body": [
+        [
+          0,
+          "Be nice (your prospective colleagues will spend more time with you than their partner)"
+        ],
+        [
+          0,
+          "Don\u2019t be nervous or desperate"
+        ],
+        [
+          0,
+          "Don\u2019t boast"
+        ],
+        [
+          0,
+          "Listen carefully, speak slowly"
+        ],
+        [
+          0,
+          "Go to office if possible"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 36,
+      "source_slide": 36,
+      "title": "Types of Recruiters",
+      "body": [
+        [
+          0,
+          "External (not ideal - will eat into your compensation - maybe 30%)"
+        ],
+        [
+          0,
+          "Internal"
+        ],
+        [
+          0,
+          "Semi-internal (contracted by business)"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 37,
+      "source_slide": 37,
+      "title": "LinkedIn/Indeed",
+      "body": [
+        [
+          0,
+          "Don\u2019t apply for jobs directly"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image56.png",
+          "left_pct": 3.466,
+          "top_pct": 26.39,
+          "width_pct": 53.696,
+          "height_pct": 34.894
+        },
+        {
+          "src": "image72.png",
+          "left_pct": 61.896,
+          "top_pct": 10.593,
+          "width_pct": 34.159,
+          "height_pct": 78.813
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 38,
+      "source_slide": 38,
+      "title": "Job Description",
+      "body": [
+        [
+          0,
+          "Don\u2019t worry"
+        ],
+        [
+          0,
+          "Only a guide (sometimes a senior post, will consider a good junior)"
+        ],
+        [
+          0,
+          "Often copy/pasted by HR"
+        ],
+        [
+          0,
+          "No one completes all the requirements"
+        ],
+        [
+          0,
+          "Work out if the position is in a cost center or revenue driver for the business"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 39,
+      "source_slide": 39,
+      "title": "Tailored Resume",
+      "body": [
+        [
+          0,
+          "Make the resume fit the job"
+        ],
+        [
+          0,
+          "Highlight skills relevant to the jobs"
+        ],
+        [
+          0,
+          "Remove skills not relevant"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 40,
+      "source_slide": 40,
+      "title": "Direct Approach",
+      "body": [
+        [
+          0,
+          "Google then write to the internal recruiter"
+        ],
+        [
+          0,
+          "Write to googled prospective colleagues (LinkedIn, BlueSky, X, Mastodon)"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image71.png",
+          "left_pct": 51.532,
+          "top_pct": 50.948,
+          "width_pct": 43.712,
+          "height_pct": 38.904
+        },
+        {
+          "src": "image59.png",
+          "left_pct": 51.153,
+          "top_pct": 6.545,
+          "width_pct": 46.591,
+          "height_pct": 28.803
+        },
+        {
+          "src": "image50.png",
+          "left_pct": 4.639,
+          "top_pct": 55.445,
+          "width_pct": 38.66,
+          "height_pct": 36.742
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 41,
+      "source_slide": 41,
+      "title": "ATS: Automated Tracking Software",
+      "body": [
+        [
+          0,
+          "Most platforms have ATS software"
+        ],
+        [
+          0,
+          "This is a classifier"
+        ],
+        [
+          0,
+          "It filters on experience, universities, age, keywords, companies etc"
+        ],
+        [
+          0,
+          "Write to internal recruiters directly, write to prospective colleagues"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image52.png",
+          "left_pct": 21.112,
+          "top_pct": 56.431,
+          "width_pct": 48.36,
+          "height_pct": 40.866
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 42,
+      "source_slide": 42,
+      "title": "Technical Screening: Mariel",
+      "body": [],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 43,
+      "source_slide": 43,
+      "title": "Invited Interview Process",
+      "body": [],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 44,
+      "source_slide": 44,
+      "title": "Understand the Organization",
+      "body": [
+        [
+          0,
+          "Understand their business model"
+        ],
+        [
+          0,
+          "Know sector themes"
+        ],
+        [
+          0,
+          "Industry press"
+        ],
+        [
+          0,
+          "CEO/CFO/CTO/Prospective Colleagues Interviews/Posts"
+        ],
+        [
+          0,
+          "Understand revenue/profit/cost sources of the organization"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 45,
+      "source_slide": 45,
+      "title": "Your Persona",
+      "body": [
+        [
+          0,
+          "Smile (Lots)"
+        ],
+        [
+          0,
+          "Positive energy"
+        ],
+        [
+          0,
+          "Confident, can do attitude"
+        ],
+        [
+          0,
+          "Professionally attractive version of yourself"
+        ],
+        [
+          0,
+          "Dress code depends on industry sector"
+        ],
+        [
+          1,
+          "Traditional (Law, Finance, Govt, University): Conservative dress, hide tattoos, piercings"
+        ],
+        [
+          1,
+          "Creative (Tech, Media, Arts, Startups): More permissive on self-expression"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 46,
+      "source_slide": 46,
+      "title": "Interviewers Team",
+      "body": [
+        [
+          0,
+          "People Ops (HR)"
+        ],
+        [
+          1,
+          "Senior"
+        ],
+        [
+          1,
+          "Junior"
+        ],
+        [
+          0,
+          "Team Members"
+        ],
+        [
+          1,
+          "Business Area Manager"
+        ],
+        [
+          1,
+          "Hiring Manager"
+        ],
+        [
+          1,
+          "Second Manager"
+        ],
+        [
+          0,
+          "Random Business Areas"
+        ],
+        [
+          1,
+          "Random jr to check fit with culture"
+        ],
+        [
+          1,
+          "Random Manager to check fit with culture"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 47,
+      "source_slide": 47,
+      "title": "Recruitment Process",
+      "body": [
+        [
+          0,
+          "First Stage Screening"
+        ],
+        [
+          0,
+          "Second Stage Screening"
+        ],
+        [
+          0,
+          "Technical Screening"
+        ],
+        [
+          0,
+          "Interview Panel"
+        ],
+        [
+          0,
+          "Technical Interview"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 48,
+      "source_slide": 48,
+      "title": "First Screen: HR Interview",
+      "body": [
+        [
+          0,
+          "Check candidate is suitable and realistic"
+        ],
+        [
+          0,
+          "Filter out completely unaware"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 49,
+      "source_slide": 49,
+      "title": "Follow Up Call/Email",
+      "body": [
+        [
+          0,
+          "Very important"
+        ],
+        [
+          0,
+          "Send a polite email thanking the interviewer(s) for taking the time to interview you"
+        ],
+        [
+          0,
+          "Do this for after every interview - make sure to write to all interviewers"
+        ],
+        [
+          0,
+          "Many can fail at this stage"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image63.png",
+          "left_pct": 6.087,
+          "top_pct": 56.127,
+          "width_pct": 67.247,
+          "height_pct": 39.65
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 50,
+      "source_slide": 50,
+      "title": "Second Screen: Small Technical Challenge",
+      "body": [],
+      "images": [
+        {
+          "src": "image61.png",
+          "left_pct": 4.119,
+          "top_pct": 20.46,
+          "width_pct": 71.912,
+          "height_pct": 63.214
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 51,
+      "source_slide": 51,
+      "title": "Interview Panel",
+      "body": [
+        [
+          0,
+          "0.5-3 days"
+        ],
+        [
+          0,
+          "On-site at the office (Could be off-site at a hotel/resort)"
+        ],
+        [
+          0,
+          "5-8 interviews with 2-3 interviewers in each interview"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 52,
+      "source_slide": 52,
+      "title": "Interviews: Interview Panel",
+      "body": [
+        [
+          0,
+          "Introduce yourself, small talk about weather, journey"
+        ],
+        [
+          0,
+          "If asked, mention you have other interviews in process"
+        ],
+        [
+          0,
+          "Wide ranging types (group, in-tray, interaction)"
+        ],
+        [
+          0,
+          "Related to job"
+        ],
+        [
+          0,
+          "Show enthusiasm for the mission of the organization"
+        ],
+        [
+          0,
+          "Smile lots"
+        ],
+        [
+          0,
+          "It\u2019s not an academic free thinking environment"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 53,
+      "source_slide": 53,
+      "title": "Psychometrics",
+      "body": [
+        [
+          0,
+          "Personality Test"
+        ],
+        [
+          0,
+          "Try to give middle response"
+        ],
+        [
+          0,
+          "Usually not very important"
+        ],
+        [
+          0,
+          "Aptitude Test"
+        ],
+        [
+          0,
+          "Looking at repetitive baseline skills"
+        ],
+        [
+          0,
+          "Could be important for specific roles"
+        ],
+        [
+          0,
+          "Not good for creative positions"
+        ]
+      ],
+      "images": [
+        {
+          "src": "image64.png",
+          "left_pct": 47.991,
+          "top_pct": 4.172,
+          "width_pct": 49.832,
+          "height_pct": 39.939
+        },
+        {
+          "src": "image70.png",
+          "left_pct": 55.397,
+          "top_pct": 44.514,
+          "width_pct": 42.426,
+          "height_pct": 54.494
+        },
+        {
+          "src": "image67.png",
+          "left_pct": 22.023,
+          "top_pct": 39.387,
+          "width_pct": 25.968,
+          "height_pct": 21.225
+        }
+      ],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 54,
+      "source_slide": 54,
+      "title": "Technical Coding Interview",
+      "body": [
+        [
+          0,
+          "Can practice hundreds online (people do: [leetcode.com](http://leetcode.com), [hackerank.com](http://hackerrank.com))"
+        ],
+        [
+          0,
+          "Pattern matching"
+        ],
+        [
+          0,
+          "Watch YouTube for examples"
+        ],
+        [
+          0,
+          "Big-O, Loops, Recursion, Conditionals"
+        ],
+        [
+          0,
+          "Programming Style"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 55,
+      "source_slide": 55,
+      "title": "Technical Interview: Mariel",
+      "body": [],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 56,
+      "source_slide": 56,
+      "title": "The Rejection",
+      "body": [],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 57,
+      "source_slide": 57,
+      "title": "Rejection",
+      "body": [
+        [
+          0,
+          "Slow response (days to weeks)"
+        ],
+        [
+          0,
+          "Don\u2019t take it personally"
+        ],
+        [
+          0,
+          "Many reasons"
+        ],
+        [
+          1,
+          "Bad Organization Fit"
+        ],
+        [
+          1,
+          "Funding Withdrawn"
+        ],
+        [
+          1,
+          "Better Candidate"
+        ],
+        [
+          1,
+          "Internal Candidate"
+        ],
+        [
+          1,
+          "Poor performance"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 58,
+      "source_slide": 58,
+      "title": "Feedback",
+      "body": [
+        [
+          0,
+          "Valuable"
+        ],
+        [
+          0,
+          "Try to get specifics"
+        ],
+        [
+          0,
+          "Suggestions for how to improve"
+        ],
+        [
+          0,
+          "Be grateful"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 59,
+      "source_slide": 59,
+      "title": "The Offer",
+      "body": [],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 60,
+      "source_slide": 60,
+      "title": "Offer Process",
+      "body": [
+        [
+          0,
+          "Fast Response (Hours to Days)"
+        ],
+        [
+          0,
+          "Informal call/email from HR"
+        ],
+        [
+          0,
+          "Subject to offer, accept provisionally if you like the organization"
+        ],
+        [
+          0,
+          "Formal offer: can be a zoom with all interviewers"
+        ],
+        [
+          0,
+          "Try to Negotiate"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    },
+    {
+      "index": 61,
+      "source_slide": 61,
+      "title": "Offer Negotiation",
+      "body": [
+        [
+          0,
+          "10-30% increase possible"
+        ],
+        [
+          0,
+          "stock/salary/sign-on bonus/vacation/other benefits"
+        ],
+        [
+          0,
+          "startup stock options mostly don\u2019t work out"
+        ],
+        [
+          0,
+          "Often the improvement is stock or relocation costs (might not be worth much)"
+        ]
+      ],
+      "images": [],
+      "table": null,
+      "notes": ""
+    }
+  ]
+}

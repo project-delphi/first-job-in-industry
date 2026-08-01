@@ -1,0 +1,572 @@
+---
+pagetitle: "The First Job in Industry"
+format:
+  revealjs:
+    css: styles.css
+    theme: simple
+    center: false
+    slide-number: true
+    transition: fade
+    width: 1280
+    height: 720
+    margin: 0.06
+    embed-resources: true
+    include-in-header:
+      text: '<meta name="color-scheme" content="only light">'
+---
+
+## The First Job in Industry
+
+<div class="slide-media">
+<img src="images/image21.png" style="left:25.458%;top:3.14%;width:44.872%;height:70.45%;" alt="">
+</div>
+
+## Objective: Share reflections of themes in industry recruitment
+
+## Outline
+
+- What Industry
+- Digital Presence
+- Getting Interview Invitation
+- Interview Process
+- The Offer
+
+<div class="slide-media">
+<img src="images/image38.png" style="left:43.792%;top:22.406%;width:47.953%;height:47.983%;" alt="">
+</div>
+
+## What Industry
+
+## Industry vs University/Academic Research
+
+<table class="fidelity-table">
+<tr><th>Academia </th><th>Industry</th></tr>
+<tr><td>Academia is a safe privileged environment</td><td>Wide variety of organizations outside university</td></tr>
+<tr><td>There is often time to think and explore ideas</td><td>Often there is a revenue/profit motive</td></tr>
+<tr><td>For the most part, industry is not like that</td><td>Managers have biases and preferences</td></tr>
+</table>
+
+## Global Industry Classification Standard (GICS)
+
+- Education
+
+<div class="slide-media">
+<img src="images/image8.png" style="left:67.517%;top:23.43%;width:10.638%;height:18.912%;" alt="">
+<img src="images/image2.png" style="left:3.5%;top:31.341%;width:9.206%;height:9.204%;" alt="">
+<img src="images/image12.png" style="left:16.186%;top:53.514%;width:12.966%;height:16.366%;" alt="">
+<img src="images/image5.png" style="left:10.57%;top:46.134%;width:8.737%;height:13.502%;" alt="">
+<img src="images/image3.png" style="left:18.319%;top:48.282%;width:9.206%;height:9.206%;" alt="">
+<img src="images/image19.png" style="left:58.318%;top:34.288%;width:8.015%;height:11.264%;" alt="">
+<img src="images/image6.png" style="left:65.447%;top:45.655%;width:8.015%;height:5.188%;" alt="">
+<img src="images/image17.png" style="left:73.75%;top:47.588%;width:10.638%;height:6.611%;" alt="">
+<img src="images/image31.png" style="left:73.445%;top:56.215%;width:9.766%;height:5.189%;" alt="">
+<img src="images/image14.png" style="left:64.59%;top:53.147%;width:8.015%;height:8.15%;" alt="">
+<img src="images/image24.png" style="left:81.768%;top:50.0%;width:8.015%;height:8.014%;" alt="">
+<img src="images/image18.png" style="left:75.594%;top:65.927%;width:6.949%;height:6.949%;" alt="">
+<img src="images/image1.png" style="left:51.982%;top:77.462%;width:6.336%;height:11.264%;" alt="">
+<img src="images/image4.png" style="left:42.487%;top:77.462%;width:5.83%;height:10.365%;" alt="">
+<img src="images/image7.png" style="left:50.014%;top:29.974%;width:4.584%;height:8.15%;" alt="">
+<img src="images/image11.png" style="left:38.811%;top:27.611%;width:5.218%;height:6.949%;" alt="">
+<img src="images/image20.png" style="left:44.029%;top:30.336%;width:6.336%;height:11.214%;" alt="">
+<img src="images/image16.png" style="left:38.811%;top:18.803%;width:3.014%;height:5.728%;" alt="">
+<img src="images/image22.png" style="left:51.396%;top:19.971%;width:5.83%;height:10.365%;" alt="">
+<img src="images/image27.png" style="left:19.307%;top:66.211%;width:5.579%;height:9.918%;" alt="">
+<img src="images/image23.png" style="left:4.18%;top:75.801%;width:6.949%;height:5.162%;" alt="">
+<img src="images/image25.png" style="left:3.5%;top:65.927%;width:6.336%;height:3.953%;" alt="">
+<img src="images/image9.png" style="left:17.493%;top:88.691%;width:3.909%;height:6.949%;" alt="">
+<img src="images/image10.png" style="left:30.109%;top:89.297%;width:5.83%;height:8.484%;" alt="">
+<img src="images/image15.png" style="left:22.469%;top:89.465%;width:4.584%;height:8.15%;" alt="">
+<img src="images/image13.png" style="left:88.515%;top:77.376%;width:8.015%;height:10.536%;" alt="">
+<img src="images/image29.png" style="left:77.632%;top:87.912%;width:5.579%;height:9.918%;" alt="">
+<img src="images/image43.png" style="left:63.362%;top:91.22%;width:6.949%;height:5.728%;" alt="">
+<img src="images/image46.png" style="left:67.111%;top:75.276%;width:8.015%;height:8.155%;" alt="">
+</div>
+
+## 
+
+<div class="slide-media">
+<img src="images/image35.png" style="left:5.226%;top:20.361%;width:49.729%;height:59.277%;" alt="">
+<img src="images/image39.png" style="left:59.094%;top:55.098%;width:38.646%;height:42.427%;" alt="">
+<img src="images/image26.png" style="left:59.308%;top:1.465%;width:38.646%;height:50.992%;" alt="">
+</div>
+
+## Start Ups
+
+<div class="slide-media">
+<img src="images/image68.png" style="left:11.202%;top:14.368%;width:74.255%;height:83.592%;" alt="">
+</div>
+
+## Hierarchy
+
+- CEO/Founder
+- HR/People Ops
+- Business Areas / Departments
+- Managers
+- Direct Manager
+- Team Members
+
+<div class="slide-media">
+<img src="images/image66.png" style="left:45.807%;top:3.412%;width:43.388%;height:82.829%;" alt="">
+</div>
+
+## Types of Organizations
+
+- Government Agencies
+- Semi Autonomous Agencies
+- Low Funding Start Ups
+- Small/Family Businesses
+- Mid Size Businesses
+- Large Companies
+- Multinationals
+- Well Funded Startups
+
+<div class="slide-media">
+<img src="images/image30.png" style="left:46.992%;top:13.681%;width:10.956%;height:19.477%;" alt="">
+<img src="images/image37.png" style="left:64.202%;top:11.016%;width:13.769%;height:24.808%;" alt="">
+<img src="images/image44.png" style="left:81.623%;top:7.916%;width:11.887%;height:9.407%;" alt="">
+<img src="images/image40.png" style="left:51.038%;top:38.94%;width:16.284%;height:16.212%;" alt="">
+<img src="images/image28.png" style="left:80.307%;top:22.407%;width:16.284%;height:15.986%;" alt="">
+<img src="images/image32.png" style="left:75.443%;top:44.372%;width:17.11%;height:15.209%;" alt="">
+<img src="images/image47.png" style="left:64.523%;top:64.436%;width:25.019%;height:23.169%;" alt="">
+<img src="images/image33.png" style="left:43.725%;top:58.268%;width:15.603%;height:27.739%;" alt="">
+<img src="images/image34.png" style="left:44.296%;top:74.787%;width:14.2%;height:17.484%;" alt="">
+</div>
+
+## Business Model
+
+- Consulting
+- Product
+- Platform
+- Mission Driven
+
+## Types of Work
+
+- Outside Consultant
+- Temporary
+- Permanent
+- Full Time
+- Part Time
+- Remote/Hybrid/On-site
+
+<div class="slide-media">
+<img src="images/image41.png" style="left:47.213%;top:28.117%;width:23.438%;height:41.667%;" alt="">
+</div>
+
+## Types of Roles
+
+- Many - math graduates who can write code are popular - high endurance, abstraction, creative thinking:
+- Data: Analyst / Engineer / Scientist / Architect
+- ML: Scientist / Engineer / Consultant
+- Statistician
+- Bioinformatics, Biostatistics, Cheminformatics
+- Computational Marketing
+- Quantitative Analyst
+- Software: Developer / Engineer / Architect
+- Risk Analyst
+- Operations Research Analyst
+- Actuary
+- Teacher, Professor
+
+## Typical Day
+
+- Meetings
+- Triaging requests on Slack
+- Reading research papers (specific positions)
+- Writing code
+- Sourcing data
+- Daily stand up (ritual: team progress, plans, updates & blockers)
+- Training
+- Presentations
+- Demo days
+
+## Work Cultures
+
+- Reflective
+- High Pressure
+- High Performance
+- Competitive, Collaborative
+- Slow, Fast
+- Impacting
+- Toxic
+- Break Things, Move Fast
+- Meaningful
+- Innovation, Staid
+
+## Devices
+
+- Laptop
+- Data & communications locked to device, everything monitored
+- Traditional: business laptop with windows
+- Creatives: usually provide Mac/Linux
+- Take to every meeting
+- Don’t open whatsapp/fb/instagram/personal email or install programs
+- Personal Phone (BYOD)
+- Install monitoring software
+- Access work docs/email/comms
+- Cloud
+- Some legacy organizations have servers
+- Organizations processing big data use cloud:
+    - Amazon AWS, Google GCP, Microsoft Azure, Huawei, Alibaba Cloud
+- Tech & start-ups are mostly using cloud
+
+## Communications
+
+- Everything will be locked down and visible
+- Use email/chat only for work
+- DM service like Slack/Discord/Teams
+- Reply quickly and professionally
+- Keep communications short and business-like, not too formal
+- Email is mostly for old economy companies
+- Use calendar; be punctual
+
+<div class="slide-media">
+<img src="images/image69.png" style="left:8.752%;top:64.384%;width:39.688%;height:24.444%;" alt="">
+<img src="images/image62.png" style="left:61.823%;top:61.883%;width:33.021%;height:29.444%;" alt="">
+<img src="images/image45.png" style="left:61.152%;top:5.528%;width:32.292%;height:30.0%;" alt="">
+</div>
+
+## Cloud
+
+- Invest time
+- Infinite scale SQL engines
+- Highly scalable managed servers
+- Deep Learning and more
+- Docker + Kubernetes
+- Manage Security
+
+<div class="slide-media">
+<img src="images/image65.png" style="left:45.18%;top:54.417%;width:50.727%;height:39.002%;" alt="">
+</div>
+
+## Data
+
+- Small Data
+- Shared drive: KB, MB, GB data volume
+- Working on laptops
+- Legacy industry applications
+- Some working in Excel
+- xslx, tsv, csv, txt, db, sql file formats
+- Big Data
+- Cloud based storage: GB, PB, XB, YB data volume
+- Work with servers using Python, SQL (sometimes R, Node, Java)
+- Expect security to be paramount PII (Super sensitive data)
+- avro, parquet, orc, json, bson, fasta, fastq, sql file formats
+
+## Compensation
+
+- Salary
+- Stock
+- Vacations
+- Perks: Massages, Relocation, Healthcare, Education/Travel Budget, Work From Home, Gifts, Food
+
+## Random Quiz: Juan Francisco
+
+## Digital Presence
+
+## LinkedIn
+
+- Clean
+- Organized
+- Professional
+- List out skills relevant to roles that interest you
+
+<div class="slide-media">
+<img src="images/image36.png" style="left:11.932%;top:59.107%;width:33.238%;height:33.09%;" alt="">
+</div>
+
+## Professional/Portfolio Website
+
+- Demo your projects
+- Or a working app
+
+## GitHub
+
+- Only quality repos
+- Repo names: use-skewer-case
+- Commits should look professional
+
+<div class="slide-media">
+<img src="images/image58.png" style="left:43.288%;top:41.846%;width:55.53%;height:54.614%;" alt="">
+</div>
+
+## Google Scholar
+
+<div class="slide-media">
+<img src="images/image57.png" style="left:13.409%;top:19.787%;width:70.457%;height:77.43%;" alt="">
+</div>
+
+## ORCID
+
+<div class="slide-media">
+<img src="images/image42.png" style="left:18.727%;top:10.909%;width:65.734%;height:83.137%;" alt="">
+</div>
+
+## Resume
+
+- pdf format (additionally word/online)
+- Have an sharable link (with a tiny url)
+- 1 page: usually for first screening
+- 2 page: when requested
+
+<div class="slide-media">
+<img src="images/image48.png" style="left:52.591%;top:-0.924%;width:40.069%;height:100.75%;" alt="">
+</div>
+
+## Language Skills
+
+- Spanish, English (English is really important for many jobs)
+- Bash, Python, R, SQL, Linux
+
+<div class="slide-media">
+<img src="images/image49.png" style="left:4.678%;top:46.428%;width:17.515%;height:24.178%;" alt="">
+<img src="images/image55.png" style="left:56.126%;top:44.747%;width:14.844%;height:28.979%;" alt="">
+<img src="images/image54.png" style="left:22.846%;top:46.428%;width:29.245%;height:24.178%;" alt="">
+<img src="images/image53.png" style="left:72.628%;top:32.46%;width:21.118%;height:24.982%;" alt="">
+<img src="images/image60.png" style="left:72.628%;top:65.549%;width:22.748%;height:22.647%;" alt="">
+</div>
+
+## Application Skills
+
+- Windows, Microsoft Office (Excel, Word, etc.)
+- Google App (Drive, Sheets, Slides, Docs)
+- LLM: ChatGPT/Gemini/Claude
+
+<div class="slide-media">
+<img src="images/image51.png" style="left:57.672%;top:50.0%;width:35.647%;height:35.488%;" alt="">
+<img src="images/image73.png" style="left:3.409%;top:48.834%;width:46.085%;height:46.085%;" alt="">
+</div>
+
+## Getting Interview Invitation
+
+## Hiring: Organization Perspective
+
+- Time is money
+- Can cost 5-15% of the total budget, 30% of first year salary, 200% to replace a bad hire
+- Productivity declines
+- Too many online applications
+- Filtering is error prone
+- Bad hires are a weight on the organization
+- Boring & exhausting process
+- Serious candidates need to demonstrate motivation
+
+## Opinions
+
+- Learn to work in groups of 2-5 people, ideally cross functional teams
+- Many organizations work on quarterly budgets and allocations
+- Could apply around the quarters (Dec/Jan, March/April, June/July, Sept/Oct)
+- Probably best to get to a big city, you’ll learn more quickly working with highly skilled people
+- Live close to work for the first year (even if it’s a small apartment share)
+- Work crazy hard for the first 6 months
+- Don’t mention you want to go back to university (PhD/Masters)
+
+## Networking
+
+- High Probability of Interview:
+- Friends
+- Family
+- Conferences
+- LinkedIn coffee meetings with potential colleagues
+- Not fair, but filtering is expensive and boring
+
+## Candidate Qualities
+
+- Be nice (your prospective colleagues will spend more time with you than their partner)
+- Don’t be nervous or desperate
+- Don’t boast
+- Listen carefully, speak slowly
+- Go to office if possible
+
+## Types of Recruiters
+
+- External (not ideal - will eat into your compensation - maybe 30%)
+- Internal
+- Semi-internal (contracted by business)
+
+## LinkedIn/Indeed
+
+- Don’t apply for jobs directly
+
+<div class="slide-media">
+<img src="images/image56.png" style="left:3.466%;top:26.39%;width:53.696%;height:34.894%;" alt="">
+<img src="images/image72.png" style="left:61.896%;top:10.593%;width:34.159%;height:78.813%;" alt="">
+</div>
+
+## Job Description
+
+- Don’t worry
+- Only a guide (sometimes a senior post, will consider a good junior)
+- Often copy/pasted by HR
+- No one completes all the requirements
+- Work out if the position is in a cost center or revenue driver for the business
+
+## Tailored Resume
+
+- Make the resume fit the job
+- Highlight skills relevant to the jobs
+- Remove skills not relevant
+
+## Direct Approach
+
+- Google then write to the internal recruiter
+- Write to googled prospective colleagues (LinkedIn, BlueSky, X, Mastodon)
+
+<div class="slide-media">
+<img src="images/image71.png" style="left:51.532%;top:50.948%;width:43.712%;height:38.904%;" alt="">
+<img src="images/image59.png" style="left:51.153%;top:6.545%;width:46.591%;height:28.803%;" alt="">
+<img src="images/image50.png" style="left:4.639%;top:55.445%;width:38.66%;height:36.742%;" alt="">
+</div>
+
+## ATS: Automated Tracking Software
+
+- Most platforms have ATS software
+- This is a classifier
+- It filters on experience, universities, age, keywords, companies etc
+- Write to internal recruiters directly, write to prospective colleagues
+
+<div class="slide-media">
+<img src="images/image52.png" style="left:21.112%;top:56.431%;width:48.36%;height:40.866%;" alt="">
+</div>
+
+## Technical Screening: Mariel
+
+## Invited Interview Process
+
+## Understand the Organization
+
+- Understand their business model
+- Know sector themes
+- Industry press
+- CEO/CFO/CTO/Prospective Colleagues Interviews/Posts
+- Understand revenue/profit/cost sources of the organization
+
+## Your Persona
+
+- Smile (Lots)
+- Positive energy
+- Confident, can do attitude
+- Professionally attractive version of yourself
+- Dress code depends on industry sector
+    - Traditional (Law, Finance, Govt, University): Conservative dress, hide tattoos, piercings
+    - Creative (Tech, Media, Arts, Startups): More permissive on self-expression
+
+## Interviewers Team
+
+- People Ops (HR)
+    - Senior
+    - Junior
+- Team Members
+    - Business Area Manager
+    - Hiring Manager
+    - Second Manager
+- Random Business Areas
+    - Random jr to check fit with culture
+    - Random Manager to check fit with culture
+
+## Recruitment Process
+
+- First Stage Screening
+- Second Stage Screening
+- Technical Screening
+- Interview Panel
+- Technical Interview
+
+## First Screen: HR Interview
+
+- Check candidate is suitable and realistic
+- Filter out completely unaware
+
+## Follow Up Call/Email
+
+- Very important
+- Send a polite email thanking the interviewer(s) for taking the time to interview you
+- Do this for after every interview - make sure to write to all interviewers
+- Many can fail at this stage
+
+<div class="slide-media">
+<img src="images/image63.png" style="left:6.087%;top:56.127%;width:67.247%;height:39.65%;" alt="">
+</div>
+
+## Second Screen: Small Technical Challenge
+
+<div class="slide-media">
+<img src="images/image61.png" style="left:4.119%;top:20.46%;width:71.912%;height:63.214%;" alt="">
+</div>
+
+## Interview Panel
+
+- 0.5-3 days
+- On-site at the office (Could be off-site at a hotel/resort)
+- 5-8 interviews with 2-3 interviewers in each interview
+
+## Interviews: Interview Panel
+
+- Introduce yourself, small talk about weather, journey
+- If asked, mention you have other interviews in process
+- Wide ranging types (group, in-tray, interaction)
+- Related to job
+- Show enthusiasm for the mission of the organization
+- Smile lots
+- It’s not an academic free thinking environment
+
+## Psychometrics
+
+- Personality Test
+- Try to give middle response
+- Usually not very important
+- Aptitude Test
+- Looking at repetitive baseline skills
+- Could be important for specific roles
+- Not good for creative positions
+
+<div class="slide-media">
+<img src="images/image64.png" style="left:47.991%;top:4.172%;width:49.832%;height:39.939%;" alt="">
+<img src="images/image70.png" style="left:55.397%;top:44.514%;width:42.426%;height:54.494%;" alt="">
+<img src="images/image67.png" style="left:22.023%;top:39.387%;width:25.968%;height:21.225%;" alt="">
+</div>
+
+## Technical Coding Interview
+
+- Can practice hundreds online (people do: [leetcode.com](http://leetcode.com), [hackerank.com](http://hackerrank.com))
+- Pattern matching
+- Watch YouTube for examples
+- Big-O, Loops, Recursion, Conditionals
+- Programming Style
+
+## Technical Interview: Mariel
+
+## The Rejection
+
+## Rejection
+
+- Slow response (days to weeks)
+- Don’t take it personally
+- Many reasons
+    - Bad Organization Fit
+    - Funding Withdrawn
+    - Better Candidate
+    - Internal Candidate
+    - Poor performance
+
+## Feedback
+
+- Valuable
+- Try to get specifics
+- Suggestions for how to improve
+- Be grateful
+
+## The Offer
+
+## Offer Process
+
+- Fast Response (Hours to Days)
+- Informal call/email from HR
+- Subject to offer, accept provisionally if you like the organization
+- Formal offer: can be a zoom with all interviewers
+- Try to Negotiate
+
+## Offer Negotiation
+
+- 10-30% increase possible
+- stock/salary/sign-on bonus/vacation/other benefits
+- startup stock options mostly don’t work out
+- Often the improvement is stock or relocation costs (might not be worth much)
