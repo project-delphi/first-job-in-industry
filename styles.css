@@ -14,93 +14,96 @@ body,
 }
 
 .reveal,
-.reveal h1,
-.reveal h2,
-.reveal h3,
-.reveal p,
-.reveal li,
-.reveal td,
-.reveal th {
+.reveal .para,
+.reveal .deck-table {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.reveal h1,
-.reveal h2 {
-  color: #000000 !important;
-  text-transform: none;
-  font-size: 1.5em;
-  border-bottom: 2px solid #158158;
-  padding-bottom: 0.15em;
-  margin-bottom: 0.5em;
-}
-
-.reveal p,
-.reveal li {
-  color: #000000 !important;
-}
-
+/* Slides are a fixed 1280x720 canvas: every shape is placed at the
+   coordinates it had in the source PowerPoint, so nothing reflows or
+   collides. Reveal scales the whole canvas to the viewport. */
 .reveal .slides section {
+  padding: 0 !important;
+  width: 1280px;
+  height: 720px;
   text-align: left;
 }
 
-.reveal ul {
-  display: block;
-}
-
-.reveal li {
-  margin-bottom: 0.3em;
-}
-
-/* Absolutely-positioned image overlay reproducing the original slide's
-   image layout (coordinates carried over from the source .pptx). */
+/* The markdown heading only exists to separate slides and name the
+   fragment; the visible title is a positioned text box. */
 .reveal .slides section > h1,
-.reveal .slides section > h2,
-.reveal .slides section > ul,
-.reveal .slides section > table {
-  position: relative;
-  z-index: 1;
+.reveal .slides section > h2 {
+  display: none !important;
 }
 
-.slide-media {
+/* Text sits above artwork. A few source slides stack a picture on top of a
+   text box, which hid the words; keeping text on the upper layer means
+   nothing in the deck is ever unreadable. */
+.tb {
   position: absolute;
-  inset: 0;
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
-  z-index: 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+  z-index: 2;
 }
 
-.slide-media img {
+.tb-inner {
+  width: 100%;
+  transform-origin: left top;
+}
+
+.reveal .para {
+  margin: 0;
+  color: #000000;
+}
+
+.reveal .title-box .para {
+  font-weight: bold;
+}
+
+.reveal .bu {
+  color: #158158;
+}
+
+.reveal img.pic {
   position: absolute;
   max-width: none;
   max-height: none;
+  margin: 0;
   border: 0;
   box-shadow: none;
   background: none;
+  z-index: 1;
 }
 
-.reveal table.fidelity-table {
+.reveal table.deck-table {
+  position: absolute;
   border-collapse: collapse;
-  width: 100%;
-  margin: 0.5em 0;
+  margin: 0;
+  font-size: 32px;
+  table-layout: fixed;
+  z-index: 2;
 }
 
-.reveal table.fidelity-table tr,
-.reveal table.fidelity-table td {
+.reveal table.deck-table th,
+.reveal table.deck-table td {
+  border: 1px solid #cccccc;
+  padding: 0.35em 0.5em;
+  text-align: left;
+  vertical-align: top;
   background-color: #ffffff !important;
   color: #000000 !important;
 }
 
-.reveal table.fidelity-table th,
-.reveal table.fidelity-table td {
-  border: 1px solid #cccccc;
-  padding: 0.4em 0.6em;
-  text-align: left;
-  vertical-align: top;
-  font-size: 0.85em;
-}
-
-.reveal table.fidelity-table th {
+/* Quarto rewrites <th> into <td data-quarto-table-cell-role="th">, so the
+   header row has to be matched both ways. */
+.reveal table.deck-table th,
+.reveal table.deck-table td[data-quarto-table-cell-role="th"] {
   background-color: #158158 !important;
   color: #ffffff !important;
+  font-weight: bold;
+}
+
+.reveal a {
+  color: #2200cc;
 }

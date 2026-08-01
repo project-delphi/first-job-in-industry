@@ -15,14 +15,22 @@ This is a [Quarto](https://quarto.org) `revealjs` presentation, converted
 from the original `Getting the first job in Industry.pptx` (kept in this repo
 for provenance). The conversion is scripted rather than manual:
 
-- `scripts/extract_pptx.py` parses the `.pptx` XML directly (titles, bullet
-  text, image positions/sizes, the one table, hyperlinks, speaker notes) into
-  `scripts/deck.json`.
-- `scripts/gen_qmd.py` turns that JSON into `index.qmd`, reproducing each
-  slide's original image layout via absolutely-positioned overlays so the
-  deck keeps fidelity to the source PowerPoint.
+- `scripts/extract_pptx.py` parses the `.pptx` XML directly into
+  `scripts/deck.json`. Every shape keeps its original position and size, and
+  text styling (font size, bullets, indents, line spacing, alignment) is
+  resolved through PowerPoint's inheritance chain: master placeholder ->
+  layout placeholder -> shape -> paragraph -> run.
+- `scripts/gen_qmd.py` turns that JSON into `index.qmd`. Each slide is
+  rebuilt as an absolutely-positioned 1280x720 canvas, so shapes land exactly
+  where they sat in the source deck instead of reflowing into each other.
+  It also emits a small "shrink text on overflow" script mirroring
+  PowerPoint's autofit, so no text box can spill over its neighbours.
 - `styles.css` matches the original theme (white background, Arial, black
   text, teal `#158158` accent).
+
+Two deliberate departures from the source deck, both for readability: text is
+drawn above artwork (a few slides stack a picture over a text box, hiding the
+words), and text that overflows its box is scaled to fit.
 
 ## Re-rendering
 

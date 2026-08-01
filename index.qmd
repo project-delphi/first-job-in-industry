@@ -9,7 +9,9 @@ format:
     transition: fade
     width: 1280
     height: 720
-    margin: 0.06
+    margin: 0
+    min-scale: 0.1
+    max-scale: 3.0
     embed-resources: true
     include-in-header:
       text: '<meta name="color-scheme" content="only light">'
@@ -17,556 +19,544 @@ format:
 
 ## The First Job in Industry
 
-<div class="slide-media">
-<img src="images/image21.png" style="left:25.458%;top:3.14%;width:44.872%;height:70.45%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:373.94px;width:1192.73px;height:287.33px;justify-content:flex-end;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:92.44px;line-height:1.0;text-align:center">The First Job in Industry</div></div></div>
+<img class="pic" src="images/image21.png" style="left:325.87px;top:22.61px;width:574.36px;height:507.24px" alt="">
+```
 
 ## Objective: Share reflections of themes in industry recruitment
 
+```{=html}
+<div class="tb title-box" style="left:53.08px;top:282.33px;width:1159.22px;height:202.29px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:49.78px;line-height:1.0;text-align:left">Objective: Share reflections of themes in industry recruitment</div></div></div>
+```
+
 ## Outline
 
-- What Industry
-- Digital Presence
-- Getting Interview Invitation
-- Interview Process
-- The Offer
-
-<div class="slide-media">
-<img src="images/image38.png" style="left:43.792%;top:22.406%;width:47.953%;height:47.983%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Outline</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>What Industry</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Digital Presence</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Getting Interview Invitation </div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Interview Process</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>The Offer</div></div></div>
+<img class="pic" src="images/image38.png" style="left:560.54px;top:161.33px;width:613.8px;height:345.48px" alt="">
+```
 
 ## What Industry
 
-## Industry vs University/Academic Research
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:301.08px;width:1192.73px;height:117.84px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:64.0px;line-height:1.0;text-align:center">What Industry</div></div></div>
+```
 
-<table class="fidelity-table">
-<tr><th>Academia </th><th>Industry</th></tr>
-<tr><td>Academia is a safe privileged environment</td><td>Wide variety of organizations outside university</td></tr>
-<tr><td>There is often time to think and explore ideas</td><td>Often there is a revenue/profit motive</td></tr>
-<tr><td>For the most part, industry is not like that</td><td>Managers have biases and preferences</td></tr>
-</table>
+## Industry vs University / Academic Research
+
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:40.96px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Industry vs University/Academic Research</div></div></div>
+<table class="deck-table" style="left:59.79px;top:142.46px;width:1160.42px"><tr><th style="width:580.21px">Academia </th><th style="width:580.21px">Industry</th></tr><tr><td style="width:580.21px">Academia is a safe privileged environment</td><td style="width:580.21px">Wide variety of organizations outside university</td></tr><tr><td style="width:580.21px">There is often time to think and explore ideas</td><td style="width:580.21px">Often there is a revenue/profit motive</td></tr><tr><td style="width:580.21px">For the most part, industry is not like that</td><td style="width:580.21px">Managers have biases and preferences</td></tr></table>
+```
 
 ## Global Industry Classification Standard (GICS)
 
-- Education
+```{=html}
+<div class="tb title-box" style="left:297.03px;top:13.08px;width:685.94px;height:117.84px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:57.6px;line-height:1.0;text-align:center">Global Industry Classification Standard (GICS)</div></div></div>
+<img class="pic" src="images/image8.png" style="left:864.22px;top:168.69px;width:136.16px;height:136.16px" alt="">
+<div class="tb" style="left:1016.34px;top:261.12px;width:188.64px;height:74.62px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:24.89px;line-height:1.0;text-align:center">Materials</div></div></div>
+<div class="tb" style="left:1081.74px;top:374.7px;width:188.64px;height:74.62px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:24.89px;line-height:1.0;text-align:center">Industrials</div></div></div>
+<div class="tb" style="left:1016.34px;top:488.29px;width:188.64px;height:74.62px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:24.89px;line-height:1.0;text-align:center">Consumer discretionary</div></div></div>
+<div class="tb" style="left:545.68px;top:613.98px;width:188.64px;height:74.62px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:24.89px;line-height:1.0;text-align:center">Health Care</div></div></div>
+<div class="tb" style="left:73.46px;top:488.29px;width:188.64px;height:74.62px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:24.89px;line-height:1.0;text-align:center">Tech</div></div></div>
+<div class="tb" style="left:9.63px;top:374.71px;width:188.64px;height:74.62px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:24.89px;line-height:1.0;text-align:center">Communication services</div></div></div>
+<div class="tb" style="left:73.46px;top:261.12px;width:188.64px;height:74.62px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:24.89px;line-height:1.0;text-align:center">Utilities</div></div></div>
+<div class="tb" style="left:837.01px;top:157.17px;width:188.64px;height:74.62px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:24.89px;line-height:1.0;text-align:center">Energy</div></div></div>
+<div class="tb" style="left:837.01px;top:592.24px;width:188.64px;height:74.62px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:24.89px;line-height:1.0;text-align:center">Consumer staples</div></div></div>
+<div class="tb" style="left:254.36px;top:592.24px;width:188.64px;height:74.62px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:24.89px;line-height:1.0;text-align:center">Financials</div></div></div>
+<div class="tb" style="left:254.36px;top:157.17px;width:188.64px;height:74.62px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:24.89px;line-height:1.0;text-align:center">Real Estate</div></div></div>
+<img class="pic" src="images/image2.png" style="left:44.79px;top:225.65px;width:117.84px;height:66.27px" alt="">
+<img class="pic" src="images/image12.png" style="left:207.18px;top:385.3px;width:165.97px;height:117.84px" alt="">
+<img class="pic" src="images/image5.png" style="left:135.3px;top:332.16px;width:111.83px;height:97.22px" alt="">
+<img class="pic" src="images/image3.png" style="left:234.48px;top:347.63px;width:117.84px;height:66.28px" alt="">
+<img class="pic" src="images/image19.png" style="left:746.47px;top:246.87px;width:102.59px;height:81.1px" alt="">
+<img class="pic" src="images/image6.png" style="left:837.72px;top:328.72px;width:102.59px;height:37.36px" alt="">
+<img class="pic" src="images/image17.png" style="left:944.0px;top:342.64px;width:136.16px;height:47.6px" alt="">
+<img class="pic" src="images/image31.png" style="left:940.09px;top:404.74px;width:125.01px;height:37.36px" alt="">
+<img class="pic" src="images/image14.png" style="left:826.75px;top:382.66px;width:102.59px;height:58.68px" alt="">
+<img class="pic" src="images/image24.png" style="left:1046.62px;top:360.0px;width:102.59px;height:57.7px" alt="">
+<img class="pic" src="images/image18.png" style="left:967.61px;top:474.68px;width:88.95px;height:50.03px" alt="">
+<img class="pic" src="images/image1.png" style="left:665.37px;top:557.73px;width:81.1px;height:81.1px" alt="">
+<img class="pic" src="images/image4.png" style="left:543.84px;top:557.73px;width:74.62px;height:74.62px" alt="">
+<div class="tb" style="left:500.62px;top:139.41px;width:188.64px;height:74.62px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:24.89px;line-height:1.0;text-align:center">Education</div></div></div>
+<img class="pic" src="images/image7.png" style="left:640.17px;top:215.81px;width:58.68px;height:58.68px" alt="">
+<img class="pic" src="images/image11.png" style="left:496.78px;top:198.8px;width:66.79px;height:50.03px" alt="">
+<img class="pic" src="images/image20.png" style="left:563.57px;top:218.42px;width:81.1px;height:80.74px" alt="">
+<img class="pic" src="images/image16.png" style="left:496.78px;top:135.38px;width:38.57px;height:41.24px" alt="">
+<img class="pic" src="images/image22.png" style="left:657.87px;top:143.79px;width:74.62px;height:74.62px" alt="">
+<img class="pic" src="images/image27.png" style="left:247.13px;top:476.72px;width:71.41px;height:71.41px" alt="">
+<img class="pic" src="images/image23.png" style="left:53.5px;top:545.77px;width:88.94px;height:37.17px" alt="">
+<img class="pic" src="images/image25.png" style="left:44.79px;top:474.68px;width:81.1px;height:28.46px" alt="">
+<img class="pic" src="images/image9.png" style="left:223.91px;top:638.57px;width:50.03px;height:50.03px" alt="">
+<img class="pic" src="images/image10.png" style="left:385.39px;top:642.94px;width:74.62px;height:61.08px" alt="">
+<img class="pic" src="images/image15.png" style="left:287.6px;top:644.14px;width:58.68px;height:58.68px" alt="">
+<img class="pic" src="images/image13.png" style="left:1132.99px;top:557.11px;width:102.59px;height:75.86px" alt="">
+<img class="pic" src="images/image29.png" style="left:993.69px;top:632.97px;width:71.41px;height:71.41px" alt="">
+<img class="pic" src="images/image43.png" style="left:811.03px;top:656.78px;width:88.94px;height:41.24px" alt="">
+<img class="pic" src="images/image46.png" style="left:859.02px;top:541.99px;width:102.59px;height:58.72px" alt="">
+```
 
-<div class="slide-media">
-<img src="images/image8.png" style="left:67.517%;top:23.43%;width:10.638%;height:18.912%;" alt="">
-<img src="images/image2.png" style="left:3.5%;top:31.341%;width:9.206%;height:9.204%;" alt="">
-<img src="images/image12.png" style="left:16.186%;top:53.514%;width:12.966%;height:16.366%;" alt="">
-<img src="images/image5.png" style="left:10.57%;top:46.134%;width:8.737%;height:13.502%;" alt="">
-<img src="images/image3.png" style="left:18.319%;top:48.282%;width:9.206%;height:9.206%;" alt="">
-<img src="images/image19.png" style="left:58.318%;top:34.288%;width:8.015%;height:11.264%;" alt="">
-<img src="images/image6.png" style="left:65.447%;top:45.655%;width:8.015%;height:5.188%;" alt="">
-<img src="images/image17.png" style="left:73.75%;top:47.588%;width:10.638%;height:6.611%;" alt="">
-<img src="images/image31.png" style="left:73.445%;top:56.215%;width:9.766%;height:5.189%;" alt="">
-<img src="images/image14.png" style="left:64.59%;top:53.147%;width:8.015%;height:8.15%;" alt="">
-<img src="images/image24.png" style="left:81.768%;top:50.0%;width:8.015%;height:8.014%;" alt="">
-<img src="images/image18.png" style="left:75.594%;top:65.927%;width:6.949%;height:6.949%;" alt="">
-<img src="images/image1.png" style="left:51.982%;top:77.462%;width:6.336%;height:11.264%;" alt="">
-<img src="images/image4.png" style="left:42.487%;top:77.462%;width:5.83%;height:10.365%;" alt="">
-<img src="images/image7.png" style="left:50.014%;top:29.974%;width:4.584%;height:8.15%;" alt="">
-<img src="images/image11.png" style="left:38.811%;top:27.611%;width:5.218%;height:6.949%;" alt="">
-<img src="images/image20.png" style="left:44.029%;top:30.336%;width:6.336%;height:11.214%;" alt="">
-<img src="images/image16.png" style="left:38.811%;top:18.803%;width:3.014%;height:5.728%;" alt="">
-<img src="images/image22.png" style="left:51.396%;top:19.971%;width:5.83%;height:10.365%;" alt="">
-<img src="images/image27.png" style="left:19.307%;top:66.211%;width:5.579%;height:9.918%;" alt="">
-<img src="images/image23.png" style="left:4.18%;top:75.801%;width:6.949%;height:5.162%;" alt="">
-<img src="images/image25.png" style="left:3.5%;top:65.927%;width:6.336%;height:3.953%;" alt="">
-<img src="images/image9.png" style="left:17.493%;top:88.691%;width:3.909%;height:6.949%;" alt="">
-<img src="images/image10.png" style="left:30.109%;top:89.297%;width:5.83%;height:8.484%;" alt="">
-<img src="images/image15.png" style="left:22.469%;top:89.465%;width:4.584%;height:8.15%;" alt="">
-<img src="images/image13.png" style="left:88.515%;top:77.376%;width:8.015%;height:10.536%;" alt="">
-<img src="images/image29.png" style="left:77.632%;top:87.912%;width:5.579%;height:9.918%;" alt="">
-<img src="images/image43.png" style="left:63.362%;top:91.22%;width:6.949%;height:5.728%;" alt="">
-<img src="images/image46.png" style="left:67.111%;top:75.276%;width:8.015%;height:8.155%;" alt="">
-</div>
+## Slide 7
 
-## 
-
-<div class="slide-media">
-<img src="images/image35.png" style="left:5.226%;top:20.361%;width:49.729%;height:59.277%;" alt="">
-<img src="images/image39.png" style="left:59.094%;top:55.098%;width:38.646%;height:42.427%;" alt="">
-<img src="images/image26.png" style="left:59.308%;top:1.465%;width:38.646%;height:50.992%;" alt="">
-</div>
+```{=html}
+<img class="pic" src="images/image35.png" style="left:66.89px;top:146.6px;width:636.53px;height:426.8px" alt="">
+<img class="pic" src="images/image39.png" style="left:756.4px;top:396.71px;width:494.67px;height:305.47px" alt="">
+<img class="pic" src="images/image26.png" style="left:759.14px;top:10.55px;width:494.67px;height:367.14px" alt="">
+```
 
 ## Start Ups
 
-<div class="slide-media">
-<img src="images/image68.png" style="left:11.202%;top:14.368%;width:74.255%;height:83.592%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:478.65px;top:22.73px;width:288.29px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Start Ups</div></div></div>
+<img class="pic" src="images/image68.png" style="left:143.39px;top:103.45px;width:950.47px;height:601.87px" alt="">
+```
 
 ## Hierarchy
 
-- CEO/Founder
-- HR/People Ops
-- Business Areas / Departments
-- Managers
-- Direct Manager
-- Team Members
-
-<div class="slide-media">
-<img src="images/image66.png" style="left:45.807%;top:3.412%;width:43.388%;height:82.829%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Hierarchy</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>CEO/Founder</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>HR/People Ops</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Business Areas / Departments</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Managers</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Direct Manager</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Team Members</div></div></div>
+<img class="pic" src="images/image66.png" style="left:586.33px;top:24.57px;width:555.37px;height:596.37px" alt="">
+```
 
 ## Types of Organizations
 
-- Government Agencies
-- Semi Autonomous Agencies
-- Low Funding Start Ups
-- Small/Family Businesses
-- Mid Size Businesses
-- Large Companies
-- Multinationals
-- Well Funded Startups
-
-<div class="slide-media">
-<img src="images/image30.png" style="left:46.992%;top:13.681%;width:10.956%;height:19.477%;" alt="">
-<img src="images/image37.png" style="left:64.202%;top:11.016%;width:13.769%;height:24.808%;" alt="">
-<img src="images/image44.png" style="left:81.623%;top:7.916%;width:11.887%;height:9.407%;" alt="">
-<img src="images/image40.png" style="left:51.038%;top:38.94%;width:16.284%;height:16.212%;" alt="">
-<img src="images/image28.png" style="left:80.307%;top:22.407%;width:16.284%;height:15.986%;" alt="">
-<img src="images/image32.png" style="left:75.443%;top:44.372%;width:17.11%;height:15.209%;" alt="">
-<img src="images/image47.png" style="left:64.523%;top:64.436%;width:25.019%;height:23.169%;" alt="">
-<img src="images/image33.png" style="left:43.725%;top:58.268%;width:15.603%;height:27.739%;" alt="">
-<img src="images/image34.png" style="left:44.296%;top:74.787%;width:14.2%;height:17.484%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Types of Organizations</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Government Agencies</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Semi Autonomous Agencies</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Low Funding Start Ups</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Small/Family Businesses</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Mid Size Businesses</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Large Companies</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Multinationals</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Well Funded Startups</div></div></div>
+<img class="pic" src="images/image30.png" style="left:601.5px;top:98.5px;width:140.23px;height:140.23px" alt="">
+<img class="pic" src="images/image37.png" style="left:821.79px;top:79.32px;width:176.24px;height:178.61px" alt="">
+<img class="pic" src="images/image44.png" style="left:1044.77px;top:57.0px;width:152.16px;height:67.73px" alt="">
+<img class="pic" src="images/image40.png" style="left:653.29px;top:280.37px;width:208.44px;height:116.73px" alt="">
+<img class="pic" src="images/image28.png" style="left:1027.93px;top:161.33px;width:208.44px;height:115.1px" alt="">
+<img class="pic" src="images/image32.png" style="left:965.67px;top:319.48px;width:219.0px;height:109.5px" alt="">
+<img class="pic" src="images/image47.png" style="left:825.89px;top:463.94px;width:320.25px;height:166.82px" alt="">
+<img class="pic" src="images/image33.png" style="left:559.68px;top:419.53px;width:199.72px;height:199.72px" alt="">
+<img class="pic" src="images/image34.png" style="left:566.99px;top:538.46px;width:181.76px;height:125.89px" alt="">
+```
 
 ## Business Model
 
-- Consulting
-- Product
-- Platform
-- Mission Driven
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Business Model</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Consulting</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Product</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Platform</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Mission Driven</div></div></div>
+```
 
 ## Types of Work
 
-- Outside Consultant
-- Temporary
-- Permanent
-- Full Time
-- Part Time
-- Remote/Hybrid/On-site
-
-<div class="slide-media">
-<img src="images/image41.png" style="left:47.213%;top:28.117%;width:23.438%;height:41.667%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Types of Work</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Outside Consultant</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Temporary</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Permanent</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Full Time</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Part Time</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Remote/Hybrid/On-site</div></div></div>
+<img class="pic" src="images/image41.png" style="left:604.33px;top:202.44px;width:300.0px;height:300.0px" alt="">
+```
 
 ## Types of Roles
 
-- Many - math graduates who can write code are popular - high endurance, abstraction, creative thinking:
-- Data: Analyst / Engineer / Scientist / Architect
-- ML: Scientist / Engineer / Consultant
-- Statistician
-- Bioinformatics, Biostatistics, Cheminformatics
-- Computational Marketing
-- Quantitative Analyst
-- Software: Developer / Engineer / Architect
-- Risk Analyst
-- Operations Research Analyst
-- Actuary
-- Teacher, Professor
+```{=html}
+<div class="tb title-box" style="left:399.55px;top:11.04px;width:364.05px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Types of Roles</div></div></div>
+<div class="tb" style="left:42.67px;top:87.14px;width:1190.51px;height:589.48px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left">Many - math graduates who can write code are popular - high endurance, abstraction, creative thinking:</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;margin-top:21.33px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Data: Analyst / Engineer / Scientist / Architect</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>ML: Scientist / Engineer / Consultant</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Statistician</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Bioinformatics, Biostatistics, Cheminformatics</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Computational Marketing</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Quantitative Analyst</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Software: Developer / Engineer / Architect</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Risk Analyst</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Operations Research Analyst</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Actuary</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Teacher, Professor</div></div></div>
+```
 
 ## Typical Day
 
-- Meetings
-- Triaging requests on Slack
-- Reading research papers (specific positions)
-- Writing code
-- Sourcing data
-- Daily stand up (ritual: team progress, plans, updates & blockers)
-- Training
-- Presentations
-- Demo days
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Typical Day</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Meetings</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Triaging requests on Slack</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Reading research papers (specific positions)</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Writing code</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Sourcing data</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Daily stand up (ritual: team progress, plans, updates &amp; blockers)</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Training</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Presentations</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Demo days</div></div></div>
+```
 
 ## Work Cultures
 
-- Reflective
-- High Pressure
-- High Performance
-- Competitive, Collaborative
-- Slow, Fast
-- Impacting
-- Toxic
-- Break Things, Move Fast
-- Meaningful
-- Innovation, Staid
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Work Cultures</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Reflective</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>High Pressure</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>High Performance</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Competitive, Collaborative</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Slow, Fast</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Impacting</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Toxic</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Break Things, Move Fast</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Meaningful</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Innovation, Staid</div></div></div>
+```
 
 ## Devices
 
-- Laptop
-- Data & communications locked to device, everything monitored
-- Traditional: business laptop with windows
-- Creatives: usually provide Mac/Linux
-- Take to every meeting
-- Don’t open whatsapp/fb/instagram/personal email or install programs
-- Personal Phone (BYOD)
-- Install monitoring software
-- Access work docs/email/comms
-- Cloud
-- Some legacy organizations have servers
-- Organizations processing big data use cloud:
-    - Amazon AWS, Google GCP, Microsoft Azure, Huawei, Alibaba Cloud
-- Tech & start-ups are mostly using cloud
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:8.96px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Devices</div></div></div>
+<div class="tb" style="left:43.63px;top:74.64px;width:1203.4px;height:604.93px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:29.6px;line-height:0.95;text-align:left">Laptop</div><div class="para" style="font-size:29.6px;line-height:0.95;text-align:left;margin-left:64.0px;margin-top:21.33px;text-indent:-46.8px"><span class="bu" style="display:inline-block;width:46.8px;text-indent:0;font-size:29.6px">❖</span>Data &amp; communications locked to device, everything monitored</div><div class="para" style="font-size:29.6px;line-height:0.95;text-align:left;margin-left:64.0px;text-indent:-46.8px"><span class="bu" style="display:inline-block;width:46.8px;text-indent:0;font-size:29.6px">❖</span>Traditional: business laptop with windows</div><div class="para" style="font-size:29.6px;line-height:0.95;text-align:left;margin-left:64.0px;text-indent:-46.8px"><span class="bu" style="display:inline-block;width:46.8px;text-indent:0;font-size:29.6px">❖</span>Creatives: usually provide Mac/Linux</div><div class="para" style="font-size:29.6px;line-height:0.95;text-align:left;margin-left:64.0px;text-indent:-46.8px"><span class="bu" style="display:inline-block;width:46.8px;text-indent:0;font-size:29.6px">❖</span>Take to every meeting</div><div class="para" style="font-size:29.6px;line-height:0.95;text-align:left;margin-left:64.0px;text-indent:-46.8px"><span class="bu" style="display:inline-block;width:46.8px;text-indent:0;font-size:29.6px">❖</span>Don’t open whatsapp/fb/instagram/personal email or install programs</div><div class="para" style="font-size:29.6px;line-height:0.95;text-align:left;margin-top:21.33px">Personal Phone (BYOD)</div><div class="para" style="font-size:29.6px;line-height:0.95;text-align:left;margin-left:64.0px;margin-top:21.33px;text-indent:-46.8px"><span class="bu" style="display:inline-block;width:46.8px;text-indent:0;font-size:29.6px">❖</span>Install monitoring software</div><div class="para" style="font-size:29.6px;line-height:0.95;text-align:left;margin-left:64.0px;text-indent:-46.8px"><span class="bu" style="display:inline-block;width:46.8px;text-indent:0;font-size:29.6px">❖</span>Access work docs/email/comms</div><div class="para" style="font-size:29.6px;line-height:0.95;text-align:left;margin-top:21.33px">Cloud</div><div class="para" style="font-size:29.6px;line-height:0.95;text-align:left;margin-left:64.0px;margin-top:21.33px;text-indent:-46.8px"><span class="bu" style="display:inline-block;width:46.8px;text-indent:0;font-size:29.6px">❖</span>Some legacy organizations have servers</div><div class="para" style="font-size:29.6px;line-height:0.95;text-align:left;margin-left:64.0px;text-indent:-46.8px"><span class="bu" style="display:inline-block;width:46.8px;text-indent:0;font-size:29.6px">❖</span>Organizations processing big data use cloud:</div><div class="para" style="font-size:23.02px;line-height:0.95;text-align:left;margin-left:128.0px;text-indent:-43.51px"><span class="bu" style="display:inline-block;width:43.51px;text-indent:0;font-size:23.02px">➢</span>Amazon AWS, Google GCP, Microsoft Azure, Huawei, Alibaba Cloud</div><div class="para" style="font-size:29.6px;line-height:0.95;text-align:left;margin-left:64.0px;text-indent:-46.8px"><span class="bu" style="display:inline-block;width:46.8px;text-indent:0;font-size:29.6px">❖</span>Tech &amp; start-ups are mostly using cloud</div></div></div>
+```
 
 ## Communications
 
-- Everything will be locked down and visible
-- Use email/chat only for work
-- DM service like Slack/Discord/Teams
-- Reply quickly and professionally
-- Keep communications short and business-like, not too formal
-- Email is mostly for old economy companies
-- Use calendar; be punctual
-
-<div class="slide-media">
-<img src="images/image69.png" style="left:8.752%;top:64.384%;width:39.688%;height:24.444%;" alt="">
-<img src="images/image62.png" style="left:61.823%;top:61.883%;width:33.021%;height:29.444%;" alt="">
-<img src="images/image45.png" style="left:61.152%;top:5.528%;width:32.292%;height:30.0%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:40.96px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Communications</div></div></div>
+<div class="tb" style="left:43.63px;top:129.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Everything will be locked down and visible</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Use email/chat only for work</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>DM service like Slack/Discord/Teams</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Reply quickly and professionally</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Keep communications short and business-like, not too formal</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Email is mostly for old economy companies</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Use calendar; be punctual</div></div></div>
+<img class="pic" src="images/image69.png" style="left:112.02px;top:463.56px;width:508.0px;height:176.0px" alt="">
+<img class="pic" src="images/image62.png" style="left:791.34px;top:445.56px;width:422.67px;height:212.0px" alt="">
+<img class="pic" src="images/image45.png" style="left:782.75px;top:39.8px;width:413.33px;height:216.0px" alt="">
+```
 
 ## Cloud
 
-- Invest time
-- Infinite scale SQL engines
-- Highly scalable managed servers
-- Deep Learning and more
-- Docker + Kubernetes
-- Manage Security
-
-<div class="slide-media">
-<img src="images/image65.png" style="left:45.18%;top:54.417%;width:50.727%;height:39.002%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Cloud</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Invest time</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Infinite scale SQL engines</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Highly scalable managed servers</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Deep Learning and more</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Docker + Kubernetes</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Manage Security</div></div></div>
+<img class="pic" src="images/image65.png" style="left:578.3px;top:391.8px;width:649.31px;height:280.82px" alt="">
+```
 
 ## Data
 
-- Small Data
-- Shared drive: KB, MB, GB data volume
-- Working on laptops
-- Legacy industry applications
-- Some working in Excel
-- xslx, tsv, csv, txt, db, sql file formats
-- Big Data
-- Cloud based storage: GB, PB, XB, YB data volume
-- Work with servers using Python, SQL (sometimes R, Node, Java)
-- Expect security to be paramount PII (Super sensitive data)
-- avro, parquet, orc, json, bson, fasta, fastq, sql file formats
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Data</div></div></div>
+<div class="tb" style="left:43.63px;top:131.41px;width:1192.73px;height:532.49px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left">Small Data</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;margin-top:21.33px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Shared drive: KB, MB, GB data volume</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Working on laptops</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Legacy industry applications</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Some working in Excel </div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>xslx, tsv, csv, txt, db, sql file formats</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-top:21.33px">Big Data</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;margin-top:21.33px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Cloud based storage: GB, PB, XB, YB data volume</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Work with servers using Python, SQL (sometimes R, Node, Java)</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>Expect security to be paramount PII (Super sensitive data)</div><div class="para" style="font-size:32.0px;line-height:1.05;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">●</span>avro, parquet, orc, json, bson, fasta, fastq, sql file formats</div></div></div>
+```
 
 ## Compensation
 
-- Salary
-- Stock
-- Vacations
-- Perks: Massages, Relocation, Healthcare, Education/Travel Budget, Work From Home, Gifts, Food
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Compensation</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Salary </div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Stock</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Vacations</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Perks: Massages, Relocation, Healthcare, Education/Travel Budget, Work From Home, Gifts, Food</div></div></div>
+```
 
 ## Random Quiz: Juan Francisco
 
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:301.08px;width:1192.73px;height:117.84px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:64.0px;line-height:1.0;text-align:center">Random Quiz: Juan Francisco</div></div></div>
+```
+
 ## Digital Presence
+
+```{=html}
+<div class="tb title-box" style="left:32.97px;top:258.41px;width:1192.73px;height:117.84px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:64.0px;line-height:1.0;text-align:center">Digital Presence</div></div></div>
+```
 
 ## LinkedIn
 
-- Clean
-- Organized
-- Professional
-- List out skills relevant to roles that interest you
-
-<div class="slide-media">
-<img src="images/image36.png" style="left:11.932%;top:59.107%;width:33.238%;height:33.09%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">LinkedIn</div></div></div>
+<div class="tb" style="left:43.63px;top:160.42px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Clean </div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Organized</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Professional</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>List out skills relevant to roles that interest you</div></div></div>
+<img class="pic" src="images/image36.png" style="left:152.73px;top:425.57px;width:425.45px;height:238.25px" alt="">
+```
 
 ## Professional/Portfolio Website
 
-- Demo your projects
-- Or a working app
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Professional/Portfolio Website</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Demo your projects</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Or a working app</div></div></div>
+```
 
 ## GitHub
 
-- Only quality repos
-- Repo names: use-skewer-case
-- Commits should look professional
-
-<div class="slide-media">
-<img src="images/image58.png" style="left:43.288%;top:41.846%;width:55.53%;height:54.614%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">GitHub</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Only quality repos</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Repo names: use-skewer-case</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Commits should look professional</div></div></div>
+<img class="pic" src="images/image58.png" style="left:554.09px;top:301.29px;width:710.79px;height:393.22px" alt="">
+```
 
 ## Google Scholar
 
-<div class="slide-media">
-<img src="images/image57.png" style="left:13.409%;top:19.787%;width:70.457%;height:77.43%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Google Scholar</div></div></div>
+<img class="pic" src="images/image57.png" style="left:171.63px;top:142.46px;width:901.85px;height:557.5px" alt="">
+```
 
 ## ORCID
 
-<div class="slide-media">
-<img src="images/image42.png" style="left:18.727%;top:10.909%;width:65.734%;height:83.137%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">ORCID</div></div></div>
+<img class="pic" src="images/image42.png" style="left:239.7px;top:78.54px;width:841.39px;height:598.59px" alt="">
+```
 
 ## Resume
 
-- pdf format (additionally word/online)
-- Have an sharable link (with a tiny url)
-- 1 page: usually for first screening
-- 2 page: when requested
-
-<div class="slide-media">
-<img src="images/image48.png" style="left:52.591%;top:-0.924%;width:40.069%;height:100.75%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Resume</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>pdf format (additionally word/online)</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Have an sharable link (with a tiny url)</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>1 page: usually for first screening</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>2 page: when requested</div></div></div>
+<img class="pic" src="images/image48.png" style="left:673.17px;top:-6.65px;width:512.88px;height:725.4px" alt="">
+```
 
 ## Language Skills
 
-- Spanish, English (English is really important for many jobs)
-- Bash, Python, R, SQL, Linux
-
-<div class="slide-media">
-<img src="images/image49.png" style="left:4.678%;top:46.428%;width:17.515%;height:24.178%;" alt="">
-<img src="images/image55.png" style="left:56.126%;top:44.747%;width:14.844%;height:28.979%;" alt="">
-<img src="images/image54.png" style="left:22.846%;top:46.428%;width:29.245%;height:24.178%;" alt="">
-<img src="images/image53.png" style="left:72.628%;top:32.46%;width:21.118%;height:24.982%;" alt="">
-<img src="images/image60.png" style="left:72.628%;top:65.549%;width:22.748%;height:22.647%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Language Skills</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Spanish, English (English is really important for many jobs)</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Bash, Python, R, SQL, Linux</div></div></div>
+<img class="pic" src="images/image49.png" style="left:59.88px;top:334.28px;width:224.19px;height:174.08px" alt="">
+<img class="pic" src="images/image55.png" style="left:718.41px;top:322.18px;width:190.0px;height:208.65px" alt="">
+<img class="pic" src="images/image54.png" style="left:292.43px;top:334.28px;width:374.33px;height:174.08px" alt="">
+<img class="pic" src="images/image53.png" style="left:929.64px;top:233.71px;width:270.3px;height:179.87px" alt="">
+<img class="pic" src="images/image60.png" style="left:929.64px;top:471.95px;width:291.18px;height:163.06px" alt="">
+```
 
 ## Application Skills
 
-- Windows, Microsoft Office (Excel, Word, etc.)
-- Google App (Drive, Sheets, Slides, Docs)
-- LLM: ChatGPT/Gemini/Claude
-
-<div class="slide-media">
-<img src="images/image51.png" style="left:57.672%;top:50.0%;width:35.647%;height:35.488%;" alt="">
-<img src="images/image73.png" style="left:3.409%;top:48.834%;width:46.085%;height:46.085%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Application Skills</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Windows, Microsoft Office (Excel, Word, etc.)</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Google App (Drive, Sheets, Slides, Docs)</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>LLM: ChatGPT/Gemini/Claude</div></div></div>
+<img class="pic" src="images/image51.png" style="left:738.2px;top:360.0px;width:456.28px;height:255.51px" alt="">
+<img class="pic" src="images/image73.png" style="left:43.63px;top:351.61px;width:589.89px;height:331.81px" alt="">
+```
 
 ## Getting Interview Invitation
 
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:301.08px;width:1192.73px;height:117.84px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:64.0px;line-height:1.0;text-align:center">Getting Interview Invitation </div></div></div>
+```
+
 ## Hiring: Organization Perspective
 
-- Time is money
-- Can cost 5-15% of the total budget, 30% of first year salary, 200% to replace a bad hire
-- Productivity declines
-- Too many online applications
-- Filtering is error prone
-- Bad hires are a weight on the organization
-- Boring & exhausting process
-- Serious candidates need to demonstrate motivation
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Hiring: Organization Perspective</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Time is money</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Can cost 5-15% of the total budget, 30% of first year salary, 200% to replace a bad hire</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Productivity declines</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Too many online applications</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Filtering is error prone</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Bad hires are a weight on the organization</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Boring &amp; exhausting process</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Serious candidates need to demonstrate motivation</div></div></div>
+```
 
 ## Opinions
 
-- Learn to work in groups of 2-5 people, ideally cross functional teams
-- Many organizations work on quarterly budgets and allocations
-- Could apply around the quarters (Dec/Jan, March/April, June/July, Sept/Oct)
-- Probably best to get to a big city, you’ll learn more quickly working with highly skilled people
-- Live close to work for the first year (even if it’s a small apartment share)
-- Work crazy hard for the first 6 months
-- Don’t mention you want to go back to university (PhD/Masters)
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Opinions</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Learn to work in groups of 2-5 people, ideally cross functional teams</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Many organizations work on quarterly budgets and allocations</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Could apply around the quarters (Dec/Jan, March/April, June/July, Sept/Oct)</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Probably best to get to a big city, you’ll learn more quickly working with highly skilled people</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Live close to work for the first year (even if it’s a small apartment share)</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Work crazy hard for the first 6 months</div><div class="para" style="font-size:32.0px;line-height:1.5;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Don’t mention you want to go back to university (PhD/Masters)</div></div></div>
+```
 
 ## Networking
 
-- High Probability of Interview:
-- Friends
-- Family
-- Conferences
-- LinkedIn coffee meetings with potential colleagues
-- Not fair, but filtering is expensive and boring
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Networking</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left">High Probability of Interview:</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;margin-top:21.33px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Friends</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Family</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Conferences</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>LinkedIn coffee meetings with potential colleagues</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Not fair, but filtering is expensive and boring</div></div></div>
+```
 
 ## Candidate Qualities
 
-- Be nice (your prospective colleagues will spend more time with you than their partner)
-- Don’t be nervous or desperate
-- Don’t boast
-- Listen carefully, speak slowly
-- Go to office if possible
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Candidate Qualities</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.3;text-align:left;margin-left:64.0px;text-indent:-49.77px"><span class="bu" style="display:inline-block;width:49.77px;text-indent:0;font-size:35.56px">❖</span>Be nice (your prospective colleagues will spend more time with you than their partner)</div><div class="para" style="font-size:32.0px;line-height:1.3;text-align:left;margin-left:64.0px;text-indent:-49.77px"><span class="bu" style="display:inline-block;width:49.77px;text-indent:0;font-size:35.56px">❖</span>Don’t be nervous or desperate</div><div class="para" style="font-size:32.0px;line-height:1.3;text-align:left;margin-left:64.0px;text-indent:-49.77px"><span class="bu" style="display:inline-block;width:49.77px;text-indent:0;font-size:35.56px">❖</span>Don’t boast</div><div class="para" style="font-size:32.0px;line-height:1.3;text-align:left;margin-left:64.0px;text-indent:-49.77px"><span class="bu" style="display:inline-block;width:49.77px;text-indent:0;font-size:35.56px">❖</span>Listen carefully, speak slowly</div><div class="para" style="font-size:32.0px;line-height:1.3;text-align:left;margin-left:64.0px;text-indent:-49.77px"><span class="bu" style="display:inline-block;width:49.77px;text-indent:0;font-size:35.56px">❖</span>Go to office if possible</div></div></div>
+```
 
 ## Types of Recruiters
 
-- External (not ideal - will eat into your compensation - maybe 30%)
-- Internal
-- Semi-internal (contracted by business)
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Types of Recruiters</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>External (not ideal - will eat into your compensation - maybe 30%)</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Internal</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Semi-internal (contracted by business)</div></div></div>
+```
 
 ## LinkedIn/Indeed
 
-- Don’t apply for jobs directly
-
-<div class="slide-media">
-<img src="images/image56.png" style="left:3.466%;top:26.39%;width:53.696%;height:34.894%;" alt="">
-<img src="images/image72.png" style="left:61.896%;top:10.593%;width:34.159%;height:78.813%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:19.63px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">LinkedIn/Indeed</div></div></div>
+<div class="tb" style="left:33.17px;top:121.13px;width:1203.19px;height:518.43px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-bottom:21.33px">Don’t apply for jobs directly</div></div></div>
+<img class="pic" src="images/image56.png" style="left:44.37px;top:190.01px;width:687.31px;height:251.23px" alt="">
+<img class="pic" src="images/image72.png" style="left:792.27px;top:76.27px;width:437.23px;height:567.45px" alt="">
+```
 
 ## Job Description
 
-- Don’t worry
-- Only a guide (sometimes a senior post, will consider a good junior)
-- Often copy/pasted by HR
-- No one completes all the requirements
-- Work out if the position is in a cost center or revenue driver for the business
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Job Description</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Don’t worry</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Only a guide (sometimes a senior post, will consider a good junior)</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Often copy/pasted by HR</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>No one completes all the requirements</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Work out if the position is in a cost center or revenue driver for the business</div></div></div>
+```
 
 ## Tailored Resume
 
-- Make the resume fit the job
-- Highlight skills relevant to the jobs
-- Remove skills not relevant
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Tailored Resume</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Make the resume fit the job</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Highlight skills relevant to the jobs</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Remove skills not relevant</div></div></div>
+```
 
 ## Direct Approach
 
-- Google then write to the internal recruiter
-- Write to googled prospective colleagues (LinkedIn, BlueSky, X, Mastodon)
-
-<div class="slide-media">
-<img src="images/image71.png" style="left:51.532%;top:50.948%;width:43.712%;height:38.904%;" alt="">
-<img src="images/image59.png" style="left:51.153%;top:6.545%;width:46.591%;height:28.803%;" alt="">
-<img src="images/image50.png" style="left:4.639%;top:55.445%;width:38.66%;height:36.742%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Direct Approach</div></div></div>
+<div class="tb" style="left:32.97px;top:184.48px;width:662.72px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left">Google then write to the internal recruiter</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-top:21.33px"><span style="font-weight:bold">Write to googled prospective colleagues (LinkedIn, BlueSky, X, Mastodon)</span></div></div></div>
+<img class="pic" src="images/image71.png" style="left:659.61px;top:366.83px;width:559.51px;height:280.11px" alt="">
+<img class="pic" src="images/image59.png" style="left:654.75px;top:47.12px;width:596.37px;height:207.38px" alt="">
+<img class="pic" src="images/image50.png" style="left:59.38px;top:399.2px;width:494.84px;height:264.55px" alt="">
+```
 
 ## ATS: Automated Tracking Software
 
-- Most platforms have ATS software
-- This is a classifier
-- It filters on experience, universities, age, keywords, companies etc
-- Write to internal recruiters directly, write to prospective colleagues
-
-<div class="slide-media">
-<img src="images/image52.png" style="left:21.112%;top:56.431%;width:48.36%;height:40.866%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">ATS: Automated Tracking Software</div></div></div>
+<div class="tb" style="left:43.63px;top:139.99px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Most platforms have ATS software</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>This is a <span style="font-weight:bold;text-decoration:underline">classifier</span></div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>It filters on experience, universities, age, keywords, companies etc</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Write to internal recruiters directly, write to prospective colleagues</div></div></div>
+<img class="pic" src="images/image52.png" style="left:270.23px;top:406.3px;width:619.01px;height:294.23px" alt="">
+```
 
 ## Technical Screening: Mariel
 
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:301.08px;width:1192.73px;height:117.84px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:64.0px;line-height:1.0;text-align:center">Technical Screening: Mariel</div></div></div>
+```
+
 ## Invited Interview Process
+
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:301.08px;width:1192.73px;height:117.84px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:64.0px;line-height:1.0;text-align:center">Invited Interview Process</div></div></div>
+```
 
 ## Understand the Organization
 
-- Understand their business model
-- Know sector themes
-- Industry press
-- CEO/CFO/CTO/Prospective Colleagues Interviews/Posts
-- Understand revenue/profit/cost sources of the organization
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Understand the Organization</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Understand their business model</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Know sector themes</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Industry press</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>CEO/CFO/CTO/Prospective Colleagues Interviews/Posts</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Understand revenue/profit/cost sources of the organization</div></div></div>
+```
 
 ## Your Persona
 
-- Smile (Lots)
-- Positive energy
-- Confident, can do attitude
-- Professionally attractive version of yourself
-- Dress code depends on industry sector
-    - Traditional (Law, Finance, Govt, University): Conservative dress, hide tattoos, piercings
-    - Creative (Tech, Media, Arts, Startups): More permissive on self-expression
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Your Persona</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:462.19px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Smile (Lots)</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Positive energy</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Confident, can do attitude</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Professionally attractive version of yourself</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Dress code depends on industry sector</div><div class="para" style="font-size:24.89px;line-height:1.15;text-align:left;margin-left:128.0px;text-indent:-44.44px"><span class="bu" style="display:inline-block;width:44.44px;text-indent:0;font-size:24.89px">➢</span>Traditional (Law, Finance, Govt, University): Conservative dress, hide tattoos, piercings</div><div class="para" style="font-size:24.89px;line-height:1.15;text-align:left;margin-left:128.0px;text-indent:-44.44px"><span class="bu" style="display:inline-block;width:44.44px;text-indent:0;font-size:24.89px">➢</span>Creative (Tech, Media, Arts, Startups): More permissive on self-expression</div></div></div>
+```
 
 ## Interviewers Team
 
-- People Ops (HR)
-    - Senior
-    - Junior
-- Team Members
-    - Business Area Manager
-    - Hiring Manager
-    - Second Manager
-- Random Business Areas
-    - Random jr to check fit with culture
-    - Random Manager to check fit with culture
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Interviewers Team</div></div></div>
+<div class="tb" style="left:43.63px;top:153.13px;width:1212.14px;height:420.33px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span><span style="font-weight:bold;text-decoration:underline">People Ops (HR)</span></div><div class="para" style="font-size:24.89px;line-height:1.15;text-align:left;margin-left:128.0px;text-indent:-44.44px"><span class="bu" style="display:inline-block;width:44.44px;text-indent:0;font-size:24.89px">➢</span>Senior</div><div class="para" style="font-size:24.89px;line-height:1.15;text-align:left;margin-left:128.0px;text-indent:-44.44px"><span class="bu" style="display:inline-block;width:44.44px;text-indent:0;font-size:24.89px">➢</span>Junior</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span><span style="font-weight:bold;text-decoration:underline">Team Members</span></div><div class="para" style="font-size:24.89px;line-height:1.15;text-align:left;margin-left:128.0px;text-indent:-44.44px"><span class="bu" style="display:inline-block;width:44.44px;text-indent:0;font-size:24.89px">➢</span>Business Area Manager</div><div class="para" style="font-size:24.89px;line-height:1.15;text-align:left;margin-left:128.0px;text-indent:-44.44px"><span class="bu" style="display:inline-block;width:44.44px;text-indent:0;font-size:24.89px">➢</span>Hiring Manager</div><div class="para" style="font-size:24.89px;line-height:1.15;text-align:left;margin-left:128.0px;text-indent:-44.44px"><span class="bu" style="display:inline-block;width:44.44px;text-indent:0;font-size:24.89px">➢</span>Second Manager</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span><span style="font-weight:bold;text-decoration:underline">Random Business Areas</span></div><div class="para" style="font-size:24.89px;line-height:1.15;text-align:left;margin-left:128.0px;text-indent:-44.44px"><span class="bu" style="display:inline-block;width:44.44px;text-indent:0;font-size:24.89px">➢</span>Random jr to check fit with culture</div><div class="para" style="font-size:24.89px;line-height:1.15;text-align:left;margin-left:128.0px;text-indent:-44.44px"><span class="bu" style="display:inline-block;width:44.44px;text-indent:0;font-size:24.89px">➢</span>Random Manager to check fit with culture</div></div></div>
+```
 
 ## Recruitment Process
 
-- First Stage Screening
-- Second Stage Screening
-- Technical Screening
-- Interview Panel
-- Technical Interview
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Recruitment Process</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>First Stage Screening</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Second Stage Screening</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Technical Screening</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Interview Panel</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Technical Interview</div></div></div>
+```
 
 ## First Screen: HR Interview
 
-- Check candidate is suitable and realistic
-- Filter out completely unaware
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">First Screen: HR Interview</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Check candidate is suitable and realistic</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Filter out completely unaware</div></div></div>
+```
 
 ## Follow Up Call/Email
 
-- Very important
-- Send a polite email thanking the interviewer(s) for taking the time to interview you
-- Do this for after every interview - make sure to write to all interviewers
-- Many can fail at this stage
-
-<div class="slide-media">
-<img src="images/image63.png" style="left:6.087%;top:56.127%;width:67.247%;height:39.65%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Follow Up Call/Email</div></div></div>
+<div class="tb" style="left:43.63px;top:150.66px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Very important</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Send a polite email thanking the interviewer(s) for taking the time to interview you</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Do this for after every interview - make sure to write to all interviewers</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Many can fail at this stage</div></div></div>
+<img class="pic" src="images/image63.png" style="left:77.91px;top:404.12px;width:860.76px;height:285.48px" alt="">
+```
 
 ## Second Screen: Small Technical Challenge
 
-<div class="slide-media">
-<img src="images/image61.png" style="left:4.119%;top:20.46%;width:71.912%;height:63.214%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Second Screen: Small Technical Challenge</div></div></div>
+<img class="pic" src="images/image61.png" style="left:52.73px;top:147.31px;width:920.47px;height:455.14px" alt="">
+```
 
 ## Interview Panel
 
-- 0.5-3 days
-- On-site at the office (Could be off-site at a hotel/resort)
-- 5-8 interviews with 2-3 interviewers in each interview
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Interview Panel </div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>0.5-3 days</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>On-site at the office (Could be off-site at a hotel/resort)</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>5-8 interviews with 2-3 interviewers in each interview</div></div></div>
+```
 
 ## Interviews: Interview Panel
 
-- Introduce yourself, small talk about weather, journey
-- If asked, mention you have other interviews in process
-- Wide ranging types (group, in-tray, interaction)
-- Related to job
-- Show enthusiasm for the mission of the organization
-- Smile lots
-- It’s not an academic free thinking environment
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Interviews: Interview Panel</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Introduce yourself, small talk about weather, journey </div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>If asked, mention you have other interviews in process</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Wide ranging types (group, in-tray, interaction)</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Related to job</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Show enthusiasm for the mission of the organization</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Smile lots</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>It’s not an academic free thinking environment</div></div></div>
+```
 
 ## Psychometrics
 
-- Personality Test
-- Try to give middle response
-- Usually not very important
-- Aptitude Test
-- Looking at repetitive baseline skills
-- Could be important for specific roles
-- Not good for creative positions
-
-<div class="slide-media">
-<img src="images/image64.png" style="left:47.991%;top:4.172%;width:49.832%;height:39.939%;" alt="">
-<img src="images/image70.png" style="left:55.397%;top:44.514%;width:42.426%;height:54.494%;" alt="">
-<img src="images/image67.png" style="left:22.023%;top:39.387%;width:25.968%;height:21.225%;" alt="">
-</div>
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:21.34px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Psychometrics</div></div></div>
+<div class="tb" style="left:43.63px;top:103.51px;width:1192.73px;height:544.88px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left"><span style="font-weight:bold;text-decoration:underline">Personality</span><span style="font-weight:bold;text-decoration:underline"> Test</span></div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;margin-top:21.33px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Try to give middle response </div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Usually not very important</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-top:21.33px"><span style="font-weight:bold;text-decoration:underline">Aptitude Test</span></div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;margin-top:21.33px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Looking at repetitive baseline skills</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Could be important for specific roles</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Not good for creative positions</div></div></div>
+<img class="pic" src="images/image64.png" style="left:614.28px;top:30.04px;width:637.85px;height:287.56px" alt="">
+<img class="pic" src="images/image70.png" style="left:709.08px;top:320.5px;width:543.06px;height:392.36px" alt="">
+<img class="pic" src="images/image67.png" style="left:281.89px;top:283.59px;width:332.39px;height:152.82px" alt="">
+```
 
 ## Technical Coding Interview
 
-- Can practice hundreds online (people do: [leetcode.com](http://leetcode.com), [hackerank.com](http://hackerrank.com))
-- Pattern matching
-- Watch YouTube for examples
-- Big-O, Loops, Recursion, Conditionals
-- Programming Style
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Technical Coding Interview</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Can practice hundreds online (people do: <a href="http://leetcode.com" style="text-decoration:underline">leetcode.com</a>, <a href="http://hackerrank.com" style="text-decoration:underline">hackerank.com</a>)</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Pattern matching</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Watch YouTube for examples</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Big-O, Loops, Recursion, Conditionals</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Programming Style</div></div></div>
+```
 
 ## Technical Interview: Mariel
 
+```{=html}
+<div class="tb title-box" style="left:22.3px;top:301.08px;width:1192.73px;height:117.84px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:64.0px;line-height:1.0;text-align:center">Technical Interview: Mariel</div></div></div>
+```
+
 ## The Rejection
+
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:301.08px;width:1192.73px;height:117.84px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:64.0px;line-height:1.0;text-align:center">The Rejection</div></div></div>
+```
 
 ## Rejection
 
-- Slow response (days to weeks)
-- Don’t take it personally
-- Many reasons
-    - Bad Organization Fit
-    - Funding Withdrawn
-    - Better Candidate
-    - Internal Candidate
-    - Poor performance
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Rejection</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Slow response (days to weeks)</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Don’t take it personally</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Many reasons</div><div class="para" style="font-size:24.89px;line-height:1.15;text-align:left;margin-left:128.0px;text-indent:-44.44px"><span class="bu" style="display:inline-block;width:44.44px;text-indent:0;font-size:24.89px">➢</span>Bad Organization Fit</div><div class="para" style="font-size:24.89px;line-height:1.15;text-align:left;margin-left:128.0px;text-indent:-44.44px"><span class="bu" style="display:inline-block;width:44.44px;text-indent:0;font-size:24.89px">➢</span>Funding Withdrawn</div><div class="para" style="font-size:24.89px;line-height:1.15;text-align:left;margin-left:128.0px;text-indent:-44.44px"><span class="bu" style="display:inline-block;width:44.44px;text-indent:0;font-size:24.89px">➢</span>Better Candidate</div><div class="para" style="font-size:24.89px;line-height:1.15;text-align:left;margin-left:128.0px;text-indent:-44.44px"><span class="bu" style="display:inline-block;width:44.44px;text-indent:0;font-size:24.89px">➢</span>Internal Candidate</div><div class="para" style="font-size:24.89px;line-height:1.15;text-align:left;margin-left:128.0px;text-indent:-44.44px"><span class="bu" style="display:inline-block;width:44.44px;text-indent:0;font-size:24.89px">➢</span>Poor performance</div></div></div>
+```
 
 ## Feedback
 
-- Valuable
-- Try to get specifics
-- Suggestions for how to improve
-- Be grateful
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Feedback</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Valuable</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Try to get specifics</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Suggestions for how to improve</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Be grateful</div></div></div>
+```
 
 ## The Offer
 
+```{=html}
+<div class="tb title-box" style="left:22.3px;top:301.08px;width:1192.73px;height:117.84px;justify-content:center;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:64.0px;line-height:1.0;text-align:center">The Offer</div></div></div>
+```
+
 ## Offer Process
 
-- Fast Response (Hours to Days)
-- Informal call/email from HR
-- Subject to offer, accept provisionally if you like the organization
-- Formal offer: can be a zoom with all interviewers
-- Try to Negotiate
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Offer Process</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Fast Response (Hours to Days)</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Informal call/email from HR</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Subject to offer, accept provisionally if you like the organization</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Formal offer: can be a zoom with all interviewers</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Try to Negotiate</div></div></div>
+```
 
-## Offer Negotiation
+## Offer  Negotiation
 
-- 10-30% increase possible
-- stock/salary/sign-on bonus/vacation/other benefits
-- startup stock options mostly don’t work out
-- Often the improvement is stock or relocation costs (might not be worth much)
+```{=html}
+<div class="tb title-box" style="left:43.63px;top:62.3px;width:1192.73px;height:80.17px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:44.8px;line-height:1.0;text-align:left">Offer Negotiation</div></div></div>
+<div class="tb" style="left:43.63px;top:161.33px;width:1192.73px;height:478.24px;justify-content:flex-start;padding:12.8px 12.8px 12.8px 12.8px"><div class="tb-inner"><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>10-30% increase possible</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>stock/salary/sign-on bonus/vacation/other benefits</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>startup stock options mostly don’t work out</div><div class="para" style="font-size:32.0px;line-height:1.15;text-align:left;margin-left:64.0px;text-indent:-48.0px"><span class="bu" style="display:inline-block;width:48.0px;text-indent:0;font-size:32.0px">❖</span>Often the improvement is stock or relocation costs (might not be worth much)</div></div></div>
+```
+
+```{=html}
+<script>
+// PowerPoint's "shrink text on overflow": scale any text box whose text is
+// taller than its original box, so it can never spill over the shapes around
+// it. Boxes are measured only while their slide is on screen, because
+// reveal.js hides the others and they would measure as zero.
+(function () {
+  function fitSlide(section) {
+    if (!section) return;
+    section.querySelectorAll('.tb').forEach(function (tb) {
+      var inner = tb.querySelector('.tb-inner');
+      if (!inner) return;
+      inner.style.transform = '';
+      inner.style.height = '';
+      if (!tb.clientHeight) return;
+      var cs = getComputedStyle(tb);
+      var avail = tb.clientHeight - parseFloat(cs.paddingTop) - parseFloat(cs.paddingBottom);
+      var needed = inner.scrollHeight;
+      if (avail > 0 && needed > avail + 1) {
+        inner.style.transform = 'scale(' + (avail / needed) + ')';
+        // A transform does not change layout size, so a vertically centred
+        // box would still be positioned on the unscaled height and spill.
+        // Pinning the height to what is actually drawn keeps it anchored.
+        inner.style.height = avail + 'px';
+      }
+    });
+  }
+  function hook() {
+    if (typeof Reveal === 'undefined' || !Reveal.on) return false;
+    var run = function () {
+      var go = function () { fitSlide(Reveal.getCurrentSlide()); };
+      go();
+      // Re-measure once webfonts settle, since metrics can shift.
+      if (document.fonts && document.fonts.ready) document.fonts.ready.then(go);
+    };
+    Reveal.on('ready', run);
+    Reveal.on('slidechanged', run);
+    Reveal.on('resize', run);
+    if (Reveal.isReady && Reveal.isReady()) run();
+    return true;
+  }
+  if (!hook()) {
+    window.addEventListener('load', function () {
+      if (!hook()) setTimeout(hook, 500);
+    });
+  }
+})();
+</script>
+```
